@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-======
 
 I am a PhD candidate at the Institute of Political Science at the University of Heidelberg. My research focuses on three separate areas, namely authoritarian regimes, conceptualization and measurement of regime transformation episodes (autocratization), and political economy of inequalities. I studied Political Science and Public Law in Heidelberg and received a B.A in Political Science and Public Law, and a M.A. in Political Science from Heidelberg University. In my paper-based PhD project, “Rethinking Inequality under Autocracy. Parties, Citizens and Preferences”, I investigate whether and how the institutional foundations of autocracies determine economic and political inequalities, and whether and how these inequalities affect ordinary citizens in the short and long-term. Three papers from my PhD project are published in Democratization, Contemporary Politics and Comparative Governance and Politics. 
 
