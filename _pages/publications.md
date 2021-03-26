@@ -10,7 +10,7 @@ author_profile: true
 <tbody>
 <tr>
 <td width="5%">[6]</td>
-<td width="95%"><strong>Pelke, Lars </strong>. (2021). Party institutionalization, authoritarian regime types andwomen’s political equality. <em>Contemporary Politics</em>, a href="http://dx.doi.org/10.1080/13569775.2021.1908724" target="_blank" rel="noopener noreferrer">doi:10.1080/13569775.2021.1908724</a>.</td>
+<td width="95%"><strong>Pelke, Lars </strong>. (2021). Party institutionalization, authoritarian regime types andwomen’s political equality. <em>Contemporary Politics</em>, <a href="http://dx.doi.org/10.1080/13569775.2021.1908724" target="_blank" rel="noopener noreferrer">doi:10.1080/13569775.2021.1908724</a>.</td>
 </tr>
 <tr>
 <td width="5%">[5]</td>
