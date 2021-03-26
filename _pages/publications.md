@@ -22,7 +22,7 @@ author_profile: true
 </tr>
 <tr>
 <td width="5%">[3]</td>
-<td width="95%"><strong>Pelke, Lars</strong> (2020). Economic inequality, income, and their effects on electoral and civil society participation in authoritarian regimes. <em>Zeitschrift für VergleichendePolitikwissenschaft</em>, 14 (4), 269–297. <a href="http://dx.doi.org/10.1007/s12286-020-00463-4" target="_blank" rel="noopener noreferrer">doi:10.1007/s12286-020-00463-4</a>.</td>
+<td width="95%"><strong>Pelke, Lars</strong> (2020). Economic inequality, income, and their effects on electoral and civil society participation in authoritarian regimes. <em>Zeitschrift für Vergleichende Politikwissenschaft</em>, 14 (4), 269–297. <a href="http://dx.doi.org/10.1007/s12286-020-00463-4" target="_blank" rel="noopener noreferrer">doi:10.1007/s12286-020-00463-4</a>.</td>
 </tr>
 <tr>
 <td width="5%">[2]</td>
