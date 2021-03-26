@@ -46,7 +46,7 @@ author_profile: true
 </tbody>
 </table>
 
-<h2>Book Reviews and Datasets</h2>
+<h3>Book Reviews and Datasets</h3>
 <table class="tg">
 <tbody>
 <tr>
