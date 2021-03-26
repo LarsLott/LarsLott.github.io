@@ -19,7 +19,7 @@ Academic Positions
 
 
 Education
-======
+------
 * PhD in Political Science, Heidelberg University, 2021 (expected)
 * M.A. in Political Science, Heidelberg University, 2017
 * B.A. in Political Science, Heidelberg University, 2015
