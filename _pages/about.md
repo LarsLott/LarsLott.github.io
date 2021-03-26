@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+About me
 ======
 
+I am a PhD candidate at the Institute of Political Science at the University of Heidelberg. My research focuses on three separate areas, namely authoritarian regimes, conceptualization and measurement of regime transformation episodes (autocratization), and political economy of inequalities. I studied Political Science and Public Law in Heidelberg and received a B.A in Political Science and Public Law, and a M.A. in Political Science from Heidelberg University. In my paper-based PhD project, “Rethinking Inequality under Autocracy. Parties, Citizens and Preferences”, I investigate whether and how the institutional foundations of autocracies determine economic and political inequalities, and whether and how these inequalities affect ordinary citizens in the short and long-term. Three papers from my PhD project are published in Democratization, Contemporary Politics and Comparative Governance and Politics. 
+
+Since April 2019, I have been research associate at the Institute of Political Science. During my studies, I was involved in research projects as a student assistant and did an internship at the Social Science Research Center Berlin (WZB). Between October 2018 and September 2019, I was a research fellow at GIGA Hamburg in the Dictator’s Endgames project, funded by the DFG. For additional information, please refer to my curriculum vitae.
+
+On this website, you will find further information on my research and teaching. Thank you for your interest and please feel free to contact me.
