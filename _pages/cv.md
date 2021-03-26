@@ -9,51 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Please find my full CV here. 
+
+Academic Positions
+------
+* 04/2019 -- today: Lecture and Research Fellow, Institute of Political Science, Heidelberg University
+* 10/2018 -- 10/2019: Research fellow, Research Project “Dictator’s Endgame. Theory and empirical analysis of military behavior in authoritarian regime crises, 1946-2014”, German Institute of Global and Area Studies, funded by the German Research Foundation
+* 10/2015 -- 10/2016: Research and teaching assistant, Institute of Political Science, Heidelberg University
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Political Science, Heidelberg University, 2021 (expected)
+* M.A. in Political Science, Heidelberg University, 2017
+* B.A. in Political Science, Heidelberg University, 2015
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
