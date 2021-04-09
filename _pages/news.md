@@ -12,7 +12,7 @@ redirect_from:
 **New Publication:**
 
 
-My paper on the link between women's political inclusion and autocratic ruling party institutionalization has been published online first with Contemporary Politics and can be found here: https://doi.org/10.1080/13569775.2021.1908724
+My paper on the link between women's political inclusion and autocratic ruling party institutionalization has been published online first with Contemporary Politics and can be found here:  <a href="hhttps://doi.org/10.1080/13569775.2021.1908724" target="_blank" rel="noopener noreferrer">https://doi.org/10.1080/13569775.2021.1908724</a> 
 [26/03/2021]
 
 **New Publication:**
