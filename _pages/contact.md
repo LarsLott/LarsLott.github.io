@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Lars Pelke
+Dr. Lars Pelke
 
 Heidelberg University  
 Institute of Political Science  
