@@ -11,7 +11,7 @@ redirect_from:
 
 **PhD defense**
 
-I passed my PhD defense in July 2021 with distinction (summa cum laude). My PhD thesis is avaiable open access: <a href="https://doi.org/10.11588/heidok.00030270" target="_blank" rel="noopener noreferrer">https://doi.org/10.11588/heidok.00030270</a>
+I passed my PhD defense in July 2021 with distinction (summa cum laude). My PhD thesis is avaiable open access: <a href="https://doi.org/10.11588/heidok.00030270" target="_blank" rel="noopener noreferrer">https://doi.org/10.11588/heidok.00030270</a> [05/08/2021]
 
 **Frank Cass prize for best article by young scholar**
 
