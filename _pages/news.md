@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+**PhD defense**
+
+I passed my PhD defense in July 2021 with distinction (summa cum laude). My PhD thesis is avaiable open access: <a href="https://doi.org/10.11588/heidok.00030270" target="_blank" rel="noopener noreferrer">https://doi.org/10.11588/heidok.00030270</a>
+
 **Frank Cass prize for best article by young scholar**
 
 My article "Inclusionary regimes, party institutionalization and redistribution under authoritarianism" published in Democratization (2020) has been awarded for the <a href="https://think.taylorandfrancis.com/journal-prize-democratization-frank-cass-prize/?utm_source=TFO&utm_medium=cms&utm_campaign=JOB08218" target="_blank" rel="noopener noreferrer">Frank Cass prize</a> for the best article by young scholar. The article examines drivers of income redistribution in autocracies. Using data from 105 autocracies 1960-2016 I showed inclusionary ruling coalitions, and higher party institutionalization correlate with more redistribution. I was extremely happy when my fist solo-authored paper for my PhD project found a home in Democratization. Thanks to the reviewers and editors. [22/04/2021]
