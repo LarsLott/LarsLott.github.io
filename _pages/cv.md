@@ -14,7 +14,8 @@ Please find my full CV <a href="https://github.com/LarsPelke/LarsPelke.github.io
 Academic Positions
 ------
 * 04/2019 - today: Lecture and Research Fellow, Institute of Political Science, Heidelberg University
-* 10/2018 - 10/2019: Research fellow, Research Project “Dictator’s Endgame. Theory and empirical analysis of military behavior in authoritarian regime crises, 1946-2014”, German Institute of Global and Area Studies, funded by the German Research Foundation
+* 06/2021 - 03/2022: Research Fellow, Research Project "(Un-)healthy Civil-Military Relations? Militarization of State Responses to the COVID-19 Pandemic in Latin America and Asia-Pacific", German Institute of Global and Area Studies (GIGA), funded by the Volkswagen Foundation 
+* 10/2018 - 10/2019: Research fellow, Research Project "Dictator’s Endgame. Theory and empirical analysis of military behavior in authoritarian regime crises, 1946-2014", German Institute of Global and Area Studies (GIGA), funded by the German Research Foundation
 * 10/2015 - 10/2016: Research and teaching assistant, Institute of Political Science, Heidelberg University
 
 
