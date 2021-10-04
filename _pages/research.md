@@ -14,12 +14,14 @@ My research relates to the fields of Comparative Politics, Democratization Resea
 Working Papers
 ------
 
-*  Croissant, Aurel & Pelke, Lars (2021). Autocratization and Domestic Terrorism. Under Review. 
-*  Pelke, Lars (2021). How do past repression and indoctrination affect redistributive preferences? Under Review. 
+*  Croissant, Aurel & Pelke, Lars (2021). COVID-19 and Democracy: Creeping Autocratization?. Book Chapter. Under Review.
+*  Croissant, Aurel & Pelke, Lars (2021). Sustainable Governance Indicators – a Conceptual and Methodological Re-Evaluation. Draft in Progress.
+*  Croissant, Aurel & Pelke, Lars (2021). Autocratization and Domestic Terrorism. Draft in Progress. 
+*  Pelke, Lars (2021). How do past repression and indoctrination affect redistributive preferences? Draft in Progress. 
 *  Pelke, Lars (2021). Autocratization and Economic Development. Draft in Progress. 
 *  Kuehn, David & Pelke, Lars (2020). Ethnicity and military behavior in authoritarian regime crises - a pilot study. Draft in Progress. 
 *  Pelke, Lars & Wintergerst, Carmen (2021). Measuring Party Institutionalization in Authoritarian Regimes. Draft in Progress
-*  Croissant, Aurel & Pelke, Lars (2021). COVID-19 and Democracy. Book Chapter. Draft in Progress.
+
 
 
 
