@@ -15,7 +15,7 @@ Working Papers
 ------
 
 *  Croissant, Aurel & Pelke, Lars (2021). COVID-19 and Democracy: Creeping Autocratization?. Book Chapter. Under Review.
-*  Croissant, Aurel & Pelke, Lars (2021). Sustainable Governance Indicators – a Conceptual and Methodological Re-Evaluation. Draft in Progress.
+*  Croissant, Aurel & Pelke, Lars (2021). Measuring Policy Performance, Democracy, and Governance Capacities: A Conceptual and Methodological Assessment of the Sustainable Governance Indicators (SGI). Under Review.
 *  Croissant, Aurel & Pelke, Lars (2021). Autocratization and Domestic Terrorism. Draft in Progress. 
 *  Pelke, Lars (2021). How do past repression and indoctrination affect redistributive preferences? Draft in Progress. 
 *  Pelke, Lars (2021). Autocratization and Economic Development. Draft in Progress. 
