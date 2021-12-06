@@ -16,9 +16,9 @@ Work in progress
 
 *  Croissant, Aurel & Pelke, Lars (2021). COVID-19 and Democracy: Creeping Autocratization?. Book Chapter. Under Review.
 *  Croissant, Aurel & Pelke, Lars (2021). Measuring Policy Performance, Democracy, and Governance Capacities: A Conceptual and Methodological Assessment of the Sustainable Governance Indicators (SGI). Under Review.
+*  Pelke, Lars (2021). Reanalyzing the Link between Democracy and Economic Development. Submitted. 
 *  Croissant, Aurel & Pelke, Lars (2021). Autocratization and Domestic Terrorism. Draft in Progress. 
 *  Pelke, Lars (2021). How do past repression and indoctrination affect redistributive preferences? Draft in Progress. 
-*  Pelke, Lars (2021). Autocratization and Economic Development. Draft in Progress. 
 *  Kuehn, David & Pelke, Lars (2020). Ethnicity and military behavior in authoritarian regime crises - a pilot study. Draft in Progress. 
 *  Pelke, Lars & Wintergerst, Carmen (2021). Measuring Party Institutionalization in Authoritarian Regimes. Draft in Progress
 
