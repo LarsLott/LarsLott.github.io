@@ -55,11 +55,11 @@ author_profile: true
 </tr>
 <tr>
 <td width="5%">[3]</td>
-<td width="95%"><strong>Pelke, Lars</strong> (2021). Book Review of "Varieties of Democracy: Measuring Two Centuries of Political Change", by Michael Coppedge et al. <em>Democratization</em>, 28 (1), 258–259. <a href="http://dx.doi.org/10.1080/13510347.2020.1729746" target="_blank" rel="noopener noreferrer">doi:10.1080/13510347.2020.1729746</a>.</td> 
+<td width="95%"><strong>Pelke, Lars</strong> (2021). Book review of "Varieties of Democracy: Measuring Two Centuries of Political Change", by Michael Coppedge et al. <em>Democratization</em>, 28 (1), 258–259. <a href="http://dx.doi.org/10.1080/13510347.2020.1729746" target="_blank" rel="noopener noreferrer">doi:10.1080/13510347.2020.1729746</a>.</td> 
 </tr>
 <tr>
 <td width="5%">[2]</td>
-<td width="95%"><strong>Pelke, Lars</strong> (2020). Book Review: When soldiers rebel, by Kristin A. Harkness.
+<td width="95%"><strong>Pelke, Lars</strong> (2020). Book review of "When soldiers rebel", by Kristin A. Harkness.
   <em>Democratization</em>, 26 (5), 890–892. <a href="http://dx.doi.org/10.1080/13510347.2019.1569630 " target="_blank" rel="noopener noreferrer">doi:10.1080/13510347.2019.1569630</a>.</td> 
 </tr>
 <tr>
