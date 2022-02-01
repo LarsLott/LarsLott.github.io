@@ -18,6 +18,6 @@ Kochstraße 4/5
 D-91054 Erlangen
 
 Office: 04.025  
-Tel.: +49 9131 85-23024
+Tel.: +49 9131 85-23024 
 E-Mail: <a href="mailto:lars.pelke@fau.de" target="_blank" rel="noopener noreferrer">lars.pelke@fau.de</a>  
 
