@@ -12,14 +12,12 @@ redirect_from:
 
 Dr. Lars Pelke
 
-Heidelberg University  
+Friedrich-Alexander University Erlangen-Nürnberg  
 Institute of Political Science  
-Bergheimer Straße 58  
-D-69115 Heidelberg  
+Kochstraße 4/5
+D-91054 Erlangen
 
-Office: 03.014  
-Tel.: +49 (0) 6221 54 2866  
-E-Mail: <a href="mailto:lars.pelke@ipw.uni-heidelberg.de" target="_blank" rel="noopener noreferrer">lars.pelke@ipw.uni-heidelberg.de</a>  
-
-Office hours: Please find information on office hours and how to make an appointment on my <a href="https://www.uni-heidelberg.de/politikwissenschaften/personal/croissant/pelke.html" target="_blank" rel="noopener noreferrer">institutional website</a>.
+Office: 04.025  
+Tel.: +49 9131 85-23024
+E-Mail: <a href="mailto:lars.pelke@fau.de" target="_blank" rel="noopener noreferrer">lars.pelke@fau.de</a>  
 
