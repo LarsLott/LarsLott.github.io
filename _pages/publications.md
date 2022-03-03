@@ -46,6 +46,16 @@ author_profile: true
 </tbody>
 </table>
 
+<h3>Reports</h3>
+<table class="tg">
+<tbody>
+<tr>
+<td width="5%">[1]</td>
+<td width="95%"> Katrin Kinzelbach, Staffan I. Lindberg, <strong>Pelke, Lars</strong>, and Janika Spannagel (2022). Academic Freedom Index 2022 Update. FAU Erlangen-Nürnberg and V-Dem Institute. <a href="http://dx.doi.org/10.25593/opus4-fau-18612" target="_blank" rel="noopener noreferrer">doi:10.25593/opus4-fau-18612</a>.</td>
+</tr>
+</tbody>
+</table>
+
 <h3>Book Reviews and Datasets</h3>
 <table class="tg">
 <tbody>
