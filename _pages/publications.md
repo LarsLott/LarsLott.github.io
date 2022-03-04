@@ -9,6 +9,10 @@ author_profile: true
 <table class="tg">
 <tbody>
 <tr>
+<td width="5%">[7]</td>
+<td width="95%">Croissant, Aurel & <strong>Pelke, Lars </strong>. (2022). Measuring Policy Performance, Democracy, and Governance Capacities: A Conceptual and Methodological Assessment of the Sustainable Governance Indicators (SGI) <em>European Policy Review</em>, accepted for publication.</td>
+</tr> 
+<tr>  
 <td width="5%">[6]</td>
 <td width="95%"><strong>Pelke, Lars </strong>. (2021). Party institutionalization, authoritarian regime types andwomen’s political equality. <em>Contemporary Politics</em>, <a href="http://dx.doi.org/10.1080/13569775.2021.1908724" target="_blank" rel="noopener noreferrer">doi:10.1080/13569775.2021.1908724</a>.</td>
 </tr>
