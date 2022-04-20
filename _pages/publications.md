@@ -59,7 +59,7 @@ author_profile: true
 </tr>
 <tr>
 <td width="5%">[1]</td>
-<td width="95%"> <strong>Pelke, Lars</strong>, (2022). Index der Wissenschaftsfreiheit.  <em>BIOspektrum</em>, 22 (2), 121. <a href="10.1007/s12268-022-1743-4" target="_blank" rel="noopener noreferrer">doi:10.1007/s12268-022-1743-4</a>.</td>
+<td width="95%"> <strong>Pelke, Lars</strong>, (2022). Index der Wissenschaftsfreiheit.  <em>BIOspektrum</em>, 22 (2), 121. <a href="http://dx.doi.org/10.1007/s12268-022-1743-4" target="_blank" rel="noopener noreferrer">doi:10.1007/s12268-022-1743-4</a>.</td>
 </tr>
 </tbody>
 </table>
