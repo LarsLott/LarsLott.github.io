@@ -10,7 +10,7 @@ author_profile: true
 <tbody>
 <tr>
 <td width="5%">[7]</td>
-<td width="95%">Croissant, Aurel & <strong>Pelke, Lars </strong>. (2022). Measuring Policy Performance, Democracy, and Governance Capacities: A Conceptual and Methodological Assessment of the Sustainable Governance Indicators (SGI). <em>European Policy Review</em>, accepted for publication.</td>
+<td width="95%">Croissant, Aurel & <strong>Pelke, Lars </strong>. (2022). Measuring Policy Performance, Democracy, and Governance Capacities: A Conceptual and Methodological Assessment of the Sustainable Governance Indicators (SGI). <em>European Policy Review</em>, <a href="http://dx.doi.org/10.1002/epa2.1141" target="_blank" rel="noopener noreferrer">doi:10.1002/epa2.1141</a>. </td>
 </tr> 
 <tr>  
 <td width="5%">[6]</td>
@@ -56,6 +56,10 @@ author_profile: true
 <tr>
 <td width="5%">[1]</td>
 <td width="95%"> Katrin Kinzelbach, Staffan I. Lindberg, <strong>Pelke, Lars</strong>, and Janika Spannagel (2022). Academic Freedom Index 2022 Update. FAU Erlangen-Nürnberg and V-Dem Institute. <a href="http://dx.doi.org/10.25593/opus4-fau-18612" target="_blank" rel="noopener noreferrer">doi:10.25593/opus4-fau-18612</a>.</td>
+</tr>
+<tr>
+<td width="5%">[1]</td>
+<td width="95%"> <strong>Pelke, Lars</strong>, (2022). Index der Wissenschaftsfreiheit.  <em>BIOspektrum</em>, 22 (2), 121. <a href="10.1007/s12268-022-1743-4" target="_blank" rel="noopener noreferrer">doi:10.1007/s12268-022-1743-4</a>.</td>
 </tr>
 </tbody>
 </table>
