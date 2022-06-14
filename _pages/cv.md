@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my full CV <a href="https://github.com/LarsPelke/LarsPelke.github.io/blob/db96c4cfca04b81309909ee2081cd1b85fcc3c63/files/CV_Pelke_10_2021.pdf " target="_blank" rel="noreferrer">here</a>. 
+Please find my full CV <a href="files/Pelke_CV_06_2022.pdf" target="_blank" rel="noreferrer">here</a>. 
 
 Academic Positions
 ------
