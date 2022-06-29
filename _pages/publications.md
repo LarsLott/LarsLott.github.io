@@ -59,6 +59,10 @@ author_profile: true
 </tr>
 <tr>
 <td width="5%">[1]</td>
+<td width="95%"> <strong>Pelke, Lars</strong>, and Katrin Kinzelbach (2022). So steht es um die Wissenschaftsfreiheit. In. IMPULSE. Das Magazin der Volkswagenstiftung, 2022. S. 17-19. <a href="https://www.volkswagenstiftung.de/sites/default/files/downloads/RZ_VWS_Impulse-2022-Web_20220601-komprimiert.pdf" target="_blank" rel="noopener noreferrer">doi:https://www.volkswagenstiftung.de</a>.</td>
+</tr>
+<tr>
+<td width="5%">[1]</td>
 <td width="95%"> <strong>Pelke, Lars</strong>, (2022). Index der Wissenschaftsfreiheit.  <em>BIOspektrum</em>, 22 (2), 121. <a href="http://dx.doi.org/10.1007/s12268-022-1743-4" target="_blank" rel="noopener noreferrer">doi:10.1007/s12268-022-1743-4</a>.</td>
 </tr>
 </tbody>
