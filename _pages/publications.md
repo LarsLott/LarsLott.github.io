@@ -73,7 +73,7 @@ author_profile: true
 <tbody>
 <tr>
 <td width="5%">[4]</td>
-<td width="95%"><strong>Pelke, Lars</strong> (2022). Book review of "Property without Rights. Origins and Consequences of the Property Rights Gap", by Michael Albertus. Cambridge University Press. 2021 <em>Democratization</em>. Online First <a href="http://dx.doi.org/10.1080/13510347.2021.2019220" target="_blank" rel="noopener noreferrer">doi:10.1080/13510347.2021.2019220</a>.</td> 
+<td width="95%"><strong>Pelke, Lars</strong> (2022). Book review of "Property without Rights. Origins and Consequences of the Property Rights Gap", by Michael Albertus. Cambridge University Press. 2021 <em>Democratization</em>. 29 (5), 976-978. <a href="http://dx.doi.org/10.1080/13510347.2021.2019220" target="_blank" rel="noopener noreferrer">doi:10.1080/13510347.2021.2019220</a>.</td> 
 </tr>
 <tr>
 <td width="5%">[3]</td>
