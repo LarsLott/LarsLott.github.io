@@ -44,11 +44,17 @@ author_profile: true
 <table class="tg">
 <tbody>
 <tr>
+<td width="5%">[2]</td>
+<td width="95%">Croissant, Aurel & <strong>Pelke, Lars</strong> (forthcoming). COVID-19 and Democracy: Creeping Autocratization?. In: Democracy, State-Capacity and the Governance of COVID-19 in Asia and Oceania, eds. Aurel Croissant and Olli Hellmann, London, UK, Routledge.</td>
+</tr>
+<tr>
 <td width="5%">[1]</td>
 <td width="95%">Croissant, Aurel & <strong>Pelke, Lars</strong> (2021). Democracy and Development in Asia. In: Elgar Research Handbook on Democracy and Development, eds. Gordon Crawford and Abdul-Gafaru Abdulai, Cheltenham, UK, Edward Elgar.</td>
 </tr>
 </tbody>
 </table>
+
+Croissant, Aurel & Pelke, Lars (2021). COVID-19 and Democracy: Creeping Autocratization?. Book Chapter. *Under Review.*
 
 <h3>Reports</h3>
 <table class="tg">
