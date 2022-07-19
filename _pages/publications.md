@@ -54,8 +54,6 @@ author_profile: true
 </tbody>
 </table>
 
-Croissant, Aurel & Pelke, Lars (2021). COVID-19 and Democracy: Creeping Autocratization?. Book Chapter. *Under Review.*
-
 <h3>Reports</h3>
 <table class="tg">
 <tbody>
