@@ -66,18 +66,23 @@ author_profile: true
 </tbody>
 </table>
 
-https://doi.org/10.7910/DVN/GJIADC
-
 <h3>Articles in Edited Volumes</h3>
 <table class="tg">
 <tbody>
 <tr>
 <td width="5%">[2]</td>
-<td width="95%">Croissant, Aurel & <strong>Pelke, Lars</strong> (forthcoming). COVID-19 and Democracy: Creeping Autocratization?. In: Democracy, State-Capacity and the Governance of COVID-19 in Asia and Oceania, eds. Aurel Croissant and Olli Hellmann, London, UK, Routledge.</td>
+<td width="95%">Croissant, Aurel & <strong>Pelke, Lars</strong> (forthcoming). COVID-19 and Democracy: Creeping Autocratization?. In: Democracy, State-Capacity and the Governance of COVID-19 in Asia and Oceania, eds. Aurel Croissant and Olli Hellmann, London, UK, Routledge.
+  
+<a class="btn btn-primary btn-sm" href="https://github.com/LarsPelke/democracy_covid19_book_chapter" role="button">Supplementary Material</a>
+<a class="btn btn-primary btn-sm" href="https://github.com/LarsPelke/democracy_covid19_book_chapter" role="button">Replication Data</a>
+</td>
 </tr>
 <tr>
 <td width="5%">[1]</td>
-<td width="95%">Croissant, Aurel & <strong>Pelke, Lars</strong> (2021). Democracy and Development in Asia. In: Elgar Research Handbook on Democracy and Development, eds. Gordon Crawford and Abdul-Gafaru Abdulai, Cheltenham, UK, Edward Elgar.</td>
+<td width="95%">Croissant, Aurel & <strong>Pelke, Lars</strong> (2021). Democracy and Development in Asia. In: Elgar Research Handbook on Democracy and Development, eds. Gordon Crawford and Abdul-Gafaru Abdulai, Cheltenham, UK, Edward Elgar.
+<a class="btn btn-primary btn-sm" href="https://osf.io/9b6yq/r" role="button">Supplementary Material</a>
+<a class="btn btn-primary btn-sm" href="https://osf.io/9b6yq/" role="button">Replication Data</a>
+</td>
 </tr>
 </tbody>
 </table>
