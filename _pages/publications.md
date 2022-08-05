@@ -10,7 +10,7 @@ author_profile: true
 <tbody>
 <tr>
 <td width="5%">[7]</td>
-<td width="95%">Croissant, Aurel & <strong>Pelke, Lars </strong>. (2022). Measuring Policy Performance, Democracy, and Governance Capacities: A Conceptual and Methodological Assessment of the Sustainable Governance Indicators (SGI). <em>European Policy Review</em>, <a href="http://dx.doi.org/10.1002/epa2.1141" target="_blank" rel="noopener noreferrer">doi:10.1002/epa2.1141</a>. 
+<td width="95%">Croissant, Aurel & <strong>Pelke, Lars </strong>. (2022). Measuring Policy Performance, Democracy, and Governance Capacities: A Conceptual and Methodological Assessment of the Sustainable Governance Indicators (SGI). <em>European Policy Review</em>, <a href="http://dx.doi.org/10.1002/epa2.1141" target="_blank" rel="noopener noreferrer">doi:10.1002/epa2.1141</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fepa2.1141&file=epa21141-sup-0001-Appendix.docx" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://github.com/LarsPelke/Measuring-Policy-Performance-Democracy-and-Governance-Capacities" role="button">Replication Code</a>
