@@ -12,31 +12,52 @@ author_profile: true
 <td width="5%">[7]</td>
 <td width="95%">Croissant, Aurel & <strong>Pelke, Lars </strong>. (2022). Measuring Policy Performance, Democracy, and Governance Capacities: A Conceptual and Methodological Assessment of the Sustainable Governance Indicators (SGI). <em>European Policy Review</em>, <a href="http://dx.doi.org/10.1002/epa2.1141" target="_blank" rel="noopener noreferrer">doi:10.1002/epa2.1141</a>. 
   
-<a class="btn btn-primary btn-sm" href="https://doi.org/10.1002/epa2.1141" role="button">Paper</a>
 <a class="btn btn-primary btn-sm" href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fepa2.1141&file=epa21141-sup-0001-Appendix.docx" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://github.com/LarsPelke/Measuring-Policy-Performance-Democracy-and-Governance-Capacities" role="button">Replication Code</a>
   </td>
 </tr> 
 <tr>  
 <td width="5%">[6]</td>
-<td width="95%"><strong>Pelke, Lars </strong>. (2021). Party institutionalization, authoritarian regime types andwomen’s political equality. <em>Contemporary Politics</em>, <a href="http://dx.doi.org/10.1080/13569775.2021.1908724" target="_blank" rel="noopener noreferrer">doi:10.1080/13569775.2021.1908724</a>.</td>
+<td width="95%"><strong>Pelke, Lars </strong>. (2021). Party institutionalization, authoritarian regime types and women’s political equality. <em>Contemporary Politics</em>, <a href="http://dx.doi.org/10.1080/13569775.2021.1908724" target="_blank" rel="noopener noreferrer">doi:10.1080/13569775.2021.1908724</a>.
+  
+<a class="btn btn-primary btn-sm" href="https://www.tandfonline.com/doi/suppl/10.1080/13569775.2021.1908724?scroll=top" role="button">Supplementary Material</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/PW2AMD" role="button">Replication Code</a>
+</td>
 </tr>
 <tr>
 <td width="5%">[5]</td>
-<td width="95%"><strong>Pelke, Lars </strong> & Aurel Croissant (2021). Conceptualizing and Measuring Autocratization Episodes. <em>Swiss Political Science Review</em>. <a href="http://dx.doi.org/10.1111/spsr.12437" target="_blank" rel="noopener noreferrer">doi:10.1111/spsr.12437</a>.</td>  
+<td width="95%"><strong>Pelke, Lars </strong> & Aurel Croissant (2021). Conceptualizing and Measuring Autocratization Episodes. <em>Swiss Political Science Review</em>. <a href="http://dx.doi.org/10.1111/spsr.12437" target="_blank" rel="noopener noreferrer">doi:10.1111/spsr.12437</a>.
+  
+<a class="btn btn-primary btn-sm" href="https://osf.io/f9n23/" role="button">Supplementary Material</a>
+<a class="btn btn-primary btn-sm" href="https://osf.io/f9n23/" role="button">Replication Code</a>
+ </td>  
 </tr>
+  
 <tr>
 <td width="5%">[4]</td>
-<td width="95%"><strong>Pelke, Lars</strong> (2020). Inclusionary regimes, party institutionalization and redistribution under authoritarianism. <em>Democratization</em>, 27 (7), 1301–1323. <a href="http://dx.doi.org/10.1080/13510347.2020.1786683" target="_blank" rel="noopener noreferrer">doi:10.1080/13510347.2020.1786683</a>.</td> 
+<td width="95%"><strong>Pelke, Lars</strong> (2020). Inclusionary regimes, party institutionalization and redistribution under authoritarianism. <em>Democratization</em>, 27 (7), 1301–1323. <a href="http://dx.doi.org/10.1080/13510347.2020.1786683" target="_blank" rel="noopener noreferrer">doi:10.1080/13510347.2020.1786683</a>.
+
+<a class="btn btn-primary btn-sm" href="https://www.tandfonline.com/doi/suppl/10.1080/13510347.2020.1786683?scroll=top" role="button">Supplementary Material</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/W8PXZC" role="button">Replication Code</a>
+</td> 
 </tr>
+  
 <tr>
 <td width="5%">[3]</td>
-<td width="95%"><strong>Pelke, Lars</strong> (2020). Economic inequality, income, and their effects on electoral and civil society participation in authoritarian regimes. <em>Zeitschrift für Vergleichende Politikwissenschaft</em>, 14 (4), 269–297. <a href="http://dx.doi.org/10.1007/s12286-020-00463-4" target="_blank" rel="noopener noreferrer">doi:10.1007/s12286-020-00463-4</a>.</td>
+<td width="95%"><strong>Pelke, Lars</strong> (2020). Economic inequality, income, and their effects on electoral and civil society participation in authoritarian regimes. <em>Zeitschrift für Vergleichende Politikwissenschaft</em>, 14 (4), 269–297. <a href="http://dx.doi.org/10.1007/s12286-020-00463-4" target="_blank" rel="noopener noreferrer">doi:10.1007/s12286-020-00463-4</a>.
+  
+<a class="btn btn-primary btn-sm" href="https://static-content.springer.com/esm/art%3A10.1007%2Fs12286-020-00463-4/MediaObjects/12286_2020_463_MOESM1_ESM.pdf" role="button">Supplementary Material</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/SMGOZH" role="button">Replication Code</a>
+</td>
 </tr>
 <tr>
 <td width="5%">[2]</td>
 <td width="95%"><strong>Pelke, Lars </strong> & Friesen, Paul (2019). Democratization Articles Dataset: an introduction. <em>Democratization</em>, 26 (1), 140–160. 
-  <a href="http://dx.doi.org/10.1080/13510347.2018.1504778" target="_blank" rel="noopener noreferrer">doi:10.1080/13510347.2018.1504778</a>.</td>
+  <a href="http://dx.doi.org/10.1080/13510347.2018.1504778" target="_blank" rel="noopener noreferrer">doi:10.1080/13510347.2018.1504778</a>.
+  
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/GJIADC" role="button">Supplementary Material</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/GJIADC" role="button">Replication Data</a>
+</td>
 </tr>
 <tr>
 <td width="5%">[1]</td>
@@ -44,6 +65,8 @@ author_profile: true
 </tr>
 </tbody>
 </table>
+
+https://doi.org/10.7910/DVN/GJIADC
 
 <h3>Articles in Edited Volumes</h3>
 <table class="tg">
