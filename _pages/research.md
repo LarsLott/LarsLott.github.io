@@ -15,11 +15,11 @@ Work in progress
 ------
 
 *  Pelke, Lars (2021). Reanalyzing the Link between Democracy and Economic Development. *Under Review.* 
-*  Pelke, Lars (2021). How do past repression and indoctrination affect redistributive preferences? *Submitted*
+*  Pelke, Lars (2021). How do past repression and indoctrination affect redistributive preferences? *Under Review*
 *  Croissant, Aurel & Pelke, Lars & Trinn Christoph (2021). Autocratization and Domestic Terrorism. *Draft in Progress.* 
 *  Kuehn, David & Pelke, Lars (2020). Ethnicity and military behavior in authoritarian regime crises - a pilot study. *Draft in Progress.* 
-*  Pelke, Lars & Janika Spannagel (2022). Assessing and Evaluating the Academic Freedom Index (worikng title). *Draft in Progress.*
-*  Pelke, Lars (2022). Praxiskurs Datenanalyse und Replikation. In: HINT. Heidelberg Inspirations for Innovative Teaching. *condictional accepted.* 
+*  Pelke, Lars & Janika Spannagel (2022). Assessing and Evaluating the Academic Freedom Index (working title). *Draft in Progress.*
+*  Pelke, Lars (2022). Replikation als Lehrinstrument in der sozialwissenschaftlichen Methodenlehre: Der Praxiskurs Datenanalyse und Replikation. In: HINT. Heidelberg Inspirations for Innovative Teaching. *accepted.* 
 *  Pelke, Lars, Spannagel, Janika & Kinzelbach Katrin (2022). Wissenschaftsfreiheit unter der Lupe: Weltweiter Trend und Mobilität nach und aus Deutschland. In: Deutscher Akademischer Austauschdienst, Forschung kompakt. *accepted* 
 
 
