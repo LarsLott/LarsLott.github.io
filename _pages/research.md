@@ -20,7 +20,7 @@ Work in progress
 *  Kuehn, David & Pelke, Lars (2020). Ethnicity and military behavior in authoritarian regime crises - a pilot study. *Draft in Progress.* 
 *  Pelke, Lars & Janika Spannagel (2022). Assessing and Evaluating the Academic Freedom Index (working title). *Draft in Progress.*
 *  Pelke, Lars (2022). Replikation als Lehrinstrument in der sozialwissenschaftlichen Methodenlehre: Der Praxiskurs Datenanalyse und Replikation. In: HINT. Heidelberg Inspirations for Innovative Teaching. *accepted.* 
-*  Pelke, Lars, Spannagel, Janika & Kinzelbach Katrin (2022). Wissenschaftsfreiheit unter der Lupe: Weltweiter Trend und Mobilität nach und aus Deutschland. In: Deutscher Akademischer Austauschdienst, Forschung kompakt. *accepted* 
+
 
 
 
