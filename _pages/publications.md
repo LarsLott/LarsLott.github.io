@@ -91,6 +91,10 @@ author_profile: true
 <table class="tg">
 <tbody>
 <tr>
+<td width="5%">[4]</td>
+<td width="95%"> <strong>Pelke, Lars</strong>, Janika Spannagel, and Katrin Kinzelbach (2022). Wissenschaftsfreiheit unter der Lupe: Weltweiter Trend und Mobilität nach und aus Deutschland. In: Deutscher Akademischer Austauschdienst, Forschung kompakt. <a href="https://doi.org/10.46685/DAADStudien.2022.11" target="_blank" rel="noopener noreferrer">doi:10.46685/DAADStudien.2022.11</a>.</td>
+</tr>
+<tr>
 <td width="5%">[3]</td>
 <td width="95%"> Katrin Kinzelbach, Staffan I. Lindberg, <strong>Pelke, Lars</strong>, and Janika Spannagel (2022). Academic Freedom Index 2022 Update. FAU Erlangen-Nürnberg and V-Dem Institute. <a href="http://dx.doi.org/10.25593/opus4-fau-18612" target="_blank" rel="noopener noreferrer">doi:10.25593/opus4-fau-18612</a>.</td>
 </tr>
