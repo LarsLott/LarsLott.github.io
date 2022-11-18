@@ -16,7 +16,7 @@ Work in progress
 
 *  Pelke, Lars (2021). Reanalyzing the Link between Democracy and Economic Development. *Under Review.* 
 *  Pelke, Lars (2021). How do past repression and indoctrination affect redistributive preferences? *Under Review*
-*  Pelke, Lars % Katrin Kinzelbacg (2022). Wie notwendig sind autonome Universitäten? Zum empirischen Zusammenhang der institutionellen und individuellen Wissenschaftsfreiheit. *Under Review*
+*  Pelke, Lars & Katrin Kinzelbach (2022). Wie notwendig sind autonome Universitäten? Zum empirischen Zusammenhang der institutionellen und individuellen Wissenschaftsfreiheit. *Under Review*
 *  Croissant, Aurel & Pelke, Lars & Trinn Christoph (2021). Autocratization and Domestic Terrorism. *Draft in Progress.* 
 *  Kuehn, David & Pelke, Lars (2020). Ethnicity and military behavior in authoritarian regime crises - a pilot study. *Draft in Progress.* 
 *  Pelke, Lars & Janika Spannagel (2022). Assessing and Evaluating the Academic Freedom Index (working title). *Draft in Progress.*
