@@ -8,17 +8,27 @@ author_profile: true
 <h3>Articles in Peer-Reviewed Journals</h3>
 <table class="tg">
 <tbody>
+  
+<tr>
+<td width="5%">[8]</td>
+<td width="95%"><strong>Pelke, Lars </strong>. (2022). Replikation als Lehrinstrument in der sozialwissenschaftlichen Methodenlehre. Der Praxiskurs Datenanalyse und Replikation. <em>HINT – Heidelberg Inspirations for Innovative Teaching</em>, 3 (2022), 117-140. <a href="https://doi.org/10.11588/hint.2022.1.92855" target="_blank" rel="noopener noreferrer">doi:10.11588/hint.2022.1.92855</a>. <br>
+  
+<a class="btn btn-primary btn-sm" href="https://github.com/LarsPelke/Praxiskurs_Datenanalyse_und_Replikation" role="button">Supplementary Material</a>
+</td>
+</tr> 
+  
 <tr>
 <td width="5%">[7]</td>
-<td width="95%">Croissant, Aurel & <strong>Pelke, Lars </strong>. (2022). Measuring Policy Performance, Democracy, and Governance Capacities: A Conceptual and Methodological Assessment of the Sustainable Governance Indicators (SGI). <em>European Policy Review</em>, <a href="http://dx.doi.org/10.1002/epa2.1141" target="_blank" rel="noopener noreferrer">doi:10.1002/epa2.1141</a>. <br>
+<td width="95%">Croissant, Aurel & <strong>Pelke, Lars </strong>. (2022). Measuring Policy Performance, Democracy, and Governance Capacities: A Conceptual and Methodological Assessment of the Sustainable Governance Indicators (SGI). <em>European Policy Review</em>, 8 (2), 136-159. <a href="http://dx.doi.org/10.1002/epa2.1141" target="_blank" rel="noopener noreferrer">doi:10.1002/epa2.1141</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fepa2.1141&file=epa21141-sup-0001-Appendix.docx" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://github.com/LarsPelke/Measuring-Policy-Performance-Democracy-and-Governance-Capacities" role="button">Replication Code</a>
   </td>
 </tr> 
+  
 <tr>  
 <td width="5%">[6]</td>
-<td width="95%"><strong>Pelke, Lars </strong>. (2021). Party institutionalization, authoritarian regime types and women’s political equality. <em>Contemporary Politics</em>, <a href="http://dx.doi.org/10.1080/13569775.2021.1908724" target="_blank" rel="noopener noreferrer">doi:10.1080/13569775.2021.1908724</a>.<br>
+<td width="95%"><strong>Pelke, Lars </strong>. (2021). Party institutionalization, authoritarian regime types and women’s political equality. <em>Contemporary Politics</em>, 27 (4), 461-486. <a href="http://dx.doi.org/10.1080/13569775.2021.1908724" target="_blank" rel="noopener noreferrer">doi:10.1080/13569775.2021.1908724</a>.<br>
   
 <a class="btn btn-primary btn-sm" href="https://www.tandfonline.com/doi/suppl/10.1080/13569775.2021.1908724?scroll=top" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/PW2AMD" role="button">Replication Code</a>
@@ -26,7 +36,7 @@ author_profile: true
 </tr>
 <tr>
 <td width="5%">[5]</td>
-<td width="95%"><strong>Pelke, Lars </strong> & Aurel Croissant (2021). Conceptualizing and Measuring Autocratization Episodes. <em>Swiss Political Science Review</em>. <a href="http://dx.doi.org/10.1111/spsr.12437" target="_blank" rel="noopener noreferrer">doi:10.1111/spsr.12437</a>.<br>
+<td width="95%"><strong>Pelke, Lars </strong> & Aurel Croissant (2021). Conceptualizing and Measuring Autocratization Episodes. <em>Swiss Political Science Review</em>, 27 (2), 434-448. <a href="http://dx.doi.org/10.1111/spsr.12437" target="_blank" rel="noopener noreferrer">doi:10.1111/spsr.12437</a>.<br>
   
 <a class="btn btn-primary btn-sm" href="https://osf.io/f9n23/" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://osf.io/f9n23/" role="button">Replication Code</a>
