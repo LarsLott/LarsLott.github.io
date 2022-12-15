@@ -39,6 +39,9 @@ author_profile: true
 
 <a class="btn btn-primary btn-sm" href="https://www.tandfonline.com/doi/suppl/10.1080/13510347.2020.1786683?scroll=top" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/W8PXZC" role="button">Replication Code</a>
+<a class="btn btn-primary btn-sm" href="https://theloop.ecpr.eu/why-autocrats-redistribute-income-and-wealth/" role="button">Blog post</a>
+<a class="btn btn-primary btn-sm" href="https://www.tandfonline.com/journals/fdem20/collections/best-paper-frank-cass-prize" role="button">Best article by young scholar</a>  
+
 </td> 
 </tr>
   
