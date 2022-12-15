@@ -15,7 +15,6 @@ Work in progress
 ------
 
 *  Pelke, Lars & Katrin Kinzelbach (2022). Wie notwendig sind autonome Universitäten? Zum empirischen Zusammenhang der institutionellen und individuellen Wissenschaftsfreiheit. *Accepted*
-*  Pelke, Lars (2022). Replikation als Lehrinstrument in der sozialwissenschaftlichen Methodenlehre: Der Praxiskurs Datenanalyse und Replikation. In: HINT. Heidelberg Inspirations for Innovative Teaching. *accepted.* 
 * Pelke, Lars & Janika Spannagel (2022). Quality Assessment of the Academic Freedom Index: Strengths, Weaknesses, and How Best to Use It. *Working Paper*
 *  Pelke, Lars (2022). Academic Freedom and the Onset of Autocratization. *Under Review*
 *  Pelke, Lars (2021). Reanalyzing the Link between Democracy and Economic Development. *Under Review* 
