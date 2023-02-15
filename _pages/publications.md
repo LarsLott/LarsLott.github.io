@@ -84,7 +84,7 @@ author_profile: true
 <tbody>
 <tr>
 <td width="5%">[2]</td>
-<td width="95%">Croissant, Aurel & <strong>Pelke, Lars</strong> (forthcoming). COVID-19 and Democracy: Creeping Autocratization?. In: Democracy, State-Capacity and the Governance of COVID-19 in Asia and Oceania, eds. Aurel Croissant and Olli Hellmann, London, UK, Routledge. <br>
+<td width="95%">Croissant, Aurel & <strong>Pelke, Lars</strong> (2023). COVID-19 and Democracy: Creeping Autocratization?. In: Democracy, State-Capacity and the Governance of COVID-19 in Asia and Oceania, eds. Aurel Croissant and Olli Hellmann, London, UK, Routledge. <a href="https://doi.org/10.4324/9781003362456-3" target="_blank" rel="noopener noreferrer">doi:10.4324/9781003362456-3</a><br>
   
 <a class="btn btn-primary btn-sm" href="https://github.com/LarsPelke/democracy_covid19_book_chapter" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://github.com/LarsPelke/democracy_covid19_book_chapter" role="button">Replication Data</a>
