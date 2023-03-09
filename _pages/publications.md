@@ -10,7 +10,7 @@ author_profile: true
 <tbody>
   
 <tr>
-<td width="5%">[8]</td>
+<td width="5%">[9]</td>
 <td width="95%">Kinzelbach, Katrin  & <strong>Pelke, Lars </strong>. (2022). Wie notwendig sind autonome Universitäten? Zum empirischen Zusammenhang der institutionellen und individuellen Wissenschaftsfreiheit. <em>Forschung</em>, 15 (3/4) (2022), 59-66. <br>
   
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.17605/OSF.IO/J7F5X" role="button">Supplementary Material</a>
