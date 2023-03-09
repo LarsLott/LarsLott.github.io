@@ -11,6 +11,14 @@ author_profile: true
   
 <tr>
 <td width="5%">[8]</td>
+<td width="95%">Kinzelbach, Katrin  & <strong>Pelke, Lars </strong>. (2022). Wie notwendig sind autonome Universitäten? Zum empirischen Zusammenhang der institutionellen und individuellen Wissenschaftsfreiheit. <em>Forschung</em>, 15 (3/4) (2022), 59-66. <br>
+  
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.17605/OSF.IO/J7F5X" role="button">Supplementary Material</a>
+</td>
+</tr> 
+  
+<tr>
+<td width="5%">[8]</td>
 <td width="95%"><strong>Pelke, Lars </strong>. (2022). Replikation als Lehrinstrument in der sozialwissenschaftlichen Methodenlehre. Der Praxiskurs Datenanalyse und Replikation. <em>HINT – Heidelberg Inspirations for Innovative Teaching</em>, 3 (2022), 117-140. <a href="https://doi.org/10.11588/hint.2022.1.92855" target="_blank" rel="noopener noreferrer">doi:10.11588/hint.2022.1.92855</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://github.com/LarsPelke/Praxiskurs_Datenanalyse_und_Replikation" role="button">Supplementary Material</a>
