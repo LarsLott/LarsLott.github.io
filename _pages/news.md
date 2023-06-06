@@ -11,8 +11,8 @@ redirect_from:
 
 **New Blog Post**
 
-New Blog Post: https://theloop.ecpr.eu/how-not-to-measure-chinas-autocratic-influence/ 
-Katrin Kinzelbach and I argue that the China Index ([china-index.io ](https://china-index.io/)) is a welcome first step, but it is not without far-reaching flaws
+New Blog Post: <a href=" https://theloop.ecpr.eu/how-not-to-measure-chinas-autocratic-influence/ " target="_blank" rel="noopener noreferrer"> https://theloop.ecpr.eu/how-not-to-measure-chinas-autocratic-influence/ </a>
+Katrin Kinzelbach and I argue that the China Index ([china-index.io ](https://china-index.io/)) is a welcome first step, but it is not without far-reaching flaws. [06/06/2023]
 
 **PhD defense**
 
