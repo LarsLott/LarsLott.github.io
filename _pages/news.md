@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+**New Blog Post**
+
+New Blog Post: https://theloop.ecpr.eu/how-not-to-measure-chinas-autocratic-influence/ 
+Katrin Kinzelbach and I argue that the China Index ([china-index.io ](https://china-index.io/)) is a welcome first step, but it is not without far-reaching flaws
+
 **PhD defense**
 
 I passed my PhD defense in July 2021 with distinction (summa cum laude). My PhD thesis is available open access: <a href="https://doi.org/10.11588/heidok.00030270" target="_blank" rel="noopener noreferrer">https://doi.org/10.11588/heidok.00030270</a> [05/08/2021]
