@@ -112,24 +112,16 @@ author_profile: true
 <table class="tg">
 <tbody>
 <tr>
-<td width="5%">[5]</td>
+<td width="5%">[3]</td>
 <td width="95%"> Katrin Kinzelbach, Staffan I. Lindberg, <strong>Pelke, Lars</strong>, and Janika Spannagel (2023). Academic Freedom Index 2023 Update. FAU Erlangen-Nürnberg and V-Dem Institute. <a href="https://doi.org/10.25593/opus4-fau-21630" target="_blank" rel="noopener noreferrer">doi:10.25593/opus4-fau-21630</a>.</td>
 </tr>
 <tr>
-<td width="5%">[4]</td>
+<td width="5%">[2]</td>
 <td width="95%"> <strong>Pelke, Lars</strong>, Janika Spannagel, and Katrin Kinzelbach (2022). Wissenschaftsfreiheit unter der Lupe: Weltweiter Trend und Mobilität nach und aus Deutschland. In: Deutscher Akademischer Austauschdienst, Forschung kompakt. <a href="https://doi.org/10.46685/DAADStudien.2022.11" target="_blank" rel="noopener noreferrer">doi:10.46685/DAADStudien.2022.11</a>.</td>
 </tr>
 <tr>
-<td width="5%">[3]</td>
-<td width="95%"> Katrin Kinzelbach, Staffan I. Lindberg, <strong>Pelke, Lars</strong>, and Janika Spannagel (2022). Academic Freedom Index 2022 Update. FAU Erlangen-Nürnberg and V-Dem Institute. <a href="http://dx.doi.org/10.25593/opus4-fau-18612" target="_blank" rel="noopener noreferrer">doi:10.25593/opus4-fau-18612</a>.</td>
-</tr>
-<tr>
-<td width="5%">[2]</td>
-<td width="95%"> <strong>Pelke, Lars</strong>, and Katrin Kinzelbach (2022). So steht es um die Wissenschaftsfreiheit. In. IMPULSE. Das Magazin der Volkswagenstiftung, 2022. S. 17-19. <a href="https://www.volkswagenstiftung.de/sites/default/files/downloads/RZ_VWS_Impulse-2022-Web_20220601-komprimiert.pdf" target="_blank" rel="noopener noreferrer">doi:https://www.volkswagenstiftung.de</a>.</td>
-</tr>
-<tr>
 <td width="5%">[1]</td>
-<td width="95%"> <strong>Pelke, Lars</strong>, (2022). Index der Wissenschaftsfreiheit.  <em>BIOspektrum</em>, 22 (2), 121. <a href="http://dx.doi.org/10.1007/s12268-022-1743-4" target="_blank" rel="noopener noreferrer">doi:10.1007/s12268-022-1743-4</a>.</td>
+<td width="95%"> Katrin Kinzelbach, Staffan I. Lindberg, <strong>Pelke, Lars</strong>, and Janika Spannagel (2022). Academic Freedom Index 2022 Update. FAU Erlangen-Nürnberg and V-Dem Institute. <a href="http://dx.doi.org/10.25593/opus4-fau-18612" target="_blank" rel="noopener noreferrer">doi:10.25593/opus4-fau-18612</a>.</td>
 </tr>
 </tbody>
 </table>
@@ -162,16 +154,20 @@ author_profile: true
 <table class="tg">
 <tbody>
 <tr>
+<td width="5%">[4]</td>
+<td width="95%"><strong>Pelke, Lars</strong> & Kinzelbach, Katrin (2023). The China Index: how (not) to measure China’s autocratic influence. ECPR The Loop. <em> Blog Post </em> <a href="https://theloop.ecpr.eu/how-not-to-measure-chinas-autocratic-influence/" target="_blank" rel="noopener noreferrer">[Link]</a>.</td>  
+</tr>
+<tr>
 <td width="5%">[3]</td>
-<td width="95%"><strong>Pelke, Lars</strong> & Kinzelbach, Katrin (2023). The China Index: how (not) to measure China’s autocratic influence. ECPR The Loop. <em> Blog Post </em> <a href="(https://theloop.ecpr.eu/how-not-to-measure-chinas-autocratic-influence/)" target="_blank" rel="noopener noreferrer">[Link]</a>.</td>  
+<td width="95%"><strong>Pelke, Lars</strong> & Kinzelbach, Katrin (2022). So steht es um die Wissenschaftsfreiheit. In. IMPULSE. Das Magazin der Volkswagenstiftung <em> Op-Ed </em> <a href="https://www.volkswagenstiftung.de/sites/default/files/documents/RZ_VWS_Impulse-2022-Web_20220809_144_high.pdf" target="_blank" rel="noopener noreferrer">[Link]</a>.</td>  
 </tr>
 <tr>
 <td width="5%">[2]</td>
-<td width="95%"><strong>Pelke, Lars</strong> & Kinzelbach, Katrin (2022). So steht es um die Wissenschaftsfreiheit. In. IMPULSE. Das Magazin der Volkswagenstiftung <em> Op-Ed </em> <a href="https://www.volkswagenstiftung.de/sites/default/files/documents/RZ_VWS_Impulse-2022-Web_20220809_144_high.pdf" target="_blank" rel="noopener noreferrer">Link</a>.</td>  
+<td width="95%"><strong>Pelke, Lars</strong> (2022).  Index der Wissenschaftsfreiheit. <em>BIOspektrum </em>, 22 (2), 121. <em> Short Article </em> <a href="https://doi.org/10.1007/s12268-022-1743-4" target="_blank" rel="noopener noreferrer">doi.org/10.1007/s12268-022-1743-4)</a>.</td>  
 </tr>
 <tr>
 <td width="5%">[1]</td>
-<td width="95%"><strong>Pelke, Lars</strong> (2022).  Index der Wissenschaftsfreiheit. <em>BIOspektrum </em>, 22 (2), 121. <em> Short Article </em> <a href="https://doi.org/10.1007/s12268-022-1743-4" target="_blank" rel="noopener noreferrer">doi.org/10.1007/s12268-022-1743-4)</a>.</td>  
+<td width="95%"><strong>Pelke, Lars</strong> (2021). Why autocrats redistribute income and wealth. ECPR The Loop. <em> Blog Post </em> <a href="https://theloop.ecpr.eu/how-not-to-measure-chinas-autocratic-influence/" target="_blank" rel="noopener noreferrer">[Link]</a>.</td>  
 </tr>
 </tbody>
 </table>
