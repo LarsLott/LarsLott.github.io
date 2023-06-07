@@ -167,7 +167,7 @@ author_profile: true
 </tr>
 <tr>
 <td width="5%">[1]</td>
-<td width="95%"><strong>Pelke, Lars</strong> (2021). Why autocrats redistribute income and wealth. ECPR The Loop. <em> Blog Post </em> <a href="https://theloop.ecpr.eu/how-not-to-measure-chinas-autocratic-influence/" target="_blank" rel="noopener noreferrer">[Link]</a>.</td>  
+<td width="95%"><strong>Pelke, Lars</strong> (2021). Why autocrats redistribute income and wealth. ECPR The Loop. <em> Blog Post </em> <a href="https://theloop.ecpr.eu/why-autocrats-redistribute-income-and-wealth/" target="_blank" rel="noopener noreferrer">[Link]</a>.</td>  
 </tr>
 </tbody>
 </table>
