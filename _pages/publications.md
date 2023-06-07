@@ -156,3 +156,24 @@ author_profile: true
 </tr>
 </tbody>
 </table>
+
+
+<h3>Op-Eds and Blog Posts</h3>
+<table class="tg">
+<tbody>
+<tr>
+<td width="5%">[3]</td>
+<td width="95%"><strong>Pelke, Lars</strong> & Kinzelbach, Katrin (2023). The China Index: how (not) to measure China’s autocratic influence. ECPR The Loop. <em> Blog Post </em> <a href="(https://theloop.ecpr.eu/how-not-to-measure-chinas-autocratic-influence/)" target="_blank" rel="noopener noreferrer">[Link]</a>.</td>  
+</tr>
+<tr>
+<td width="5%">[2]</td>
+<td width="95%"><strong>Pelke, Lars</strong> & Kinzelbach, Katrin (2022). So steht es um die Wissenschaftsfreiheit. In. IMPULSE. Das Magazin der Volkswagenstiftung <em> Op-Ed </em> <a href="https://www.volkswagenstiftung.de/sites/default/files/documents/RZ_VWS_Impulse-2022-Web_20220809_144_high.pdf" target="_blank" rel="noopener noreferrer">Link</a>.</td>  
+</tr>
+<tr>
+<td width="5%">[1]</td>
+<td width="95%"><strong>Pelke, Lars</strong> (2022).  Index der Wissenschaftsfreiheit. <em>BIOspektrum </em>, 22 (2), 121. <em> Short Article </em> <a href="https://doi.org/10.1007/s12268-022-1743-4" target="_blank" rel="noopener noreferrer">doi.org/10.1007/s12268-022-1743-4)</a>.</td>  
+</tr>
+</tbody>
+</table>
+
+      
