@@ -5,10 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
+*  Pelke, Lars (2023). Academic Freedom and the Onset of Autocratization. *Accepted*. Democratization.
+
+
 <h3>Articles in Peer-Reviewed Journals</h3>
 <table class="tg">
 <tbody>
+ 
+<tr>
+<td width="5%">[10]</td>
+<td width="95%"><strong>Pelke, Lars </strong>. (2023). Academic Freedom and the Onset of Autocratization. <em>Democratization</em>. <a href="http://dx.doi.org/10.1080/13510347.2023.2207213" target="_blank" rel="noopener noreferrer">doi:10.1080/13510347.2023.2207213</a>. <br>
   
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.1080/13510347.2023.2207213" role="button">Supplementary Material</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/STOIQ0" role="button">Replication Code</a>
+
+</td>
+</tr> 
+
 <tr>
 <td width="5%">[9]</td>
 <td width="95%">Kinzelbach, Katrin  & <strong>Pelke, Lars </strong>. (2022). Wie notwendig sind autonome Universitäten? Zum empirischen Zusammenhang der institutionellen und individuellen Wissenschaftsfreiheit. <em>Forschung</em>, 15 (3/4) (2022), 59-66. <br>
