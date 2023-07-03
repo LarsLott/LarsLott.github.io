@@ -5,9 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-*  Pelke, Lars (2023). Academic Freedom and the Onset of Autocratization. *Accepted*. Democratization.
-
-
 <h3>Articles in Peer-Reviewed Journals</h3>
 <table class="tg">
 <tbody>
