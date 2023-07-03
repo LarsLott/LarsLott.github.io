@@ -108,6 +108,19 @@ author_profile: true
 </tbody>
 </table>
 
+
+<h3>Working Papers</h3>
+<table class="tg">
+<tbody>
+<tr>
+<td width="5%">[1]</td>
+<td width="95%"><strong>Pelke, Lars</strong> & Janika Spannagel (2023). Quality Assessment of the Academic Freedom Index: Strengths, Weaknesses, and How Best to Use It.  <em>V-Dem Working Papers Series 2023:142  </em>em> <a href="https://v-dem.net/media/publications/wp_142.pdf" target="_blank" rel="noopener noreferrer">https://v-dem.net/media/publications/wp_142.pdf</a><br>
+</td>
+</tr>
+</tbody>
+</table>
+
+
 <h3>Reports</h3>
 <table class="tg">
 <tbody>
