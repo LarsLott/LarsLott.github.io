@@ -14,11 +14,9 @@ My research relates to the fields of Comparative Politics, Democratization Resea
 Work in progress
 ------
 
-*  Pelke, Lars (2023). Academic Freedom and the Onset of Autocratization. *Accepted*. Democratization.
 *  Pelke, Lars (2023). Academic Freedom Growth and Decline Episodes. *Revise and Resubmit*
 *  Pelke, Lars (2023). Reanalyzing the Link between Democracy and Economic Development. *Revise and Resubmit* 
 *  Pelke, Lars & Croissant, Aurel & Trinn, Christoph (2023). Autocratization and Domestic Terrorism. *Under Review* 
-*  Pelke, Lars & Janika Spannagel (2022). Quality Assessment of the Academic Freedom Index: Strengths, Weaknesses, and How Best to Use It. *Working Paper*
 *  Pelke, Lars & Croissant, Aurel (2023). Measuring Autocratization. In: Routledge Handbook of Autocratization. Routledge. *Draft in progress*
 *  Pelke, Lars (2021). How do past repression and indoctrination affect redistributive preferences? *Draft in progress*
 *  Kuehn, David & Pelke, Lars (2020). Ethnicity and military behavior in authoritarian regime crises - a pilot study. *Draft in progress* 
