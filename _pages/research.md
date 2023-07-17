@@ -14,8 +14,8 @@ My research relates to the fields of Comparative Politics, Democratization Resea
 Work in progress
 ------
 
+*  Pelke, Lars (2023). Reanalyzing the Link between Democracy and Economic Development. *Accepted at International Area Studies Review*
 *  Pelke, Lars (2023). Academic Freedom Growth and Decline Episodes. *Revise and Resubmit*
-*  Pelke, Lars (2023). Reanalyzing the Link between Democracy and Economic Development. *Revise and Resubmit*
 *  Korell, Daniel & Reinecke, Niklas & Pelke, Lars (2023). Student-Led Replication Studies in Comparative Politics: New findings by fresh eyes? *Revise and Resubmit*  
 *  Pelke, Lars & Croissant, Aurel & Trinn, Christoph (2023). Autocratization and Domestic Terrorism. *Under Review*
 *  Pelke, Lars & Croissant, Aurel (2023). Measuring Autocratization. In: Routledge Handbook of Autocratization. Routledge. *Finalized, available on request*
