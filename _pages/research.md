@@ -17,10 +17,10 @@ Work in progress
 *  Pelke, Lars (2023). Reanalyzing the Link between Democracy and Economic Development. *Accepted at International Area Studies Review*
 *  Pelke, Lars (2023). Academic Freedom Growth and Decline Episodes. *Revise and Resubmit*
 *  Korell, Daniel & Reinecke, Niklas & Pelke, Lars (2023). Student-Led Replication Studies in Comparative Politics: New findings by fresh eyes? *Revise and Resubmit*  
-*  Pelke, Lars & Croissant, Aurel & Trinn, Christoph (2023). Autocratization and Domestic Terrorism. *Under Review*
+*  Pelke, Lars & Croissant, Aurel & Trinn, Christoph (2023). Autocratization and Domestic Terrorism. *Revise and Resubmit*
 *  Pelke, Lars & Janika Spannagel (2023). Quality Assessment of the Academic Freedom Index: Strengths, Weaknesses, and How Best to Use It. *Under Review*
+*  Pelke, Lars (2021). How do past repression and indoctrination affect redistributive preferences? *Under Review*
 *  Pelke, Lars & Croissant, Aurel (2023). Measuring Autocratization. In: Routledge Handbook of Autocratization. Routledge. *Finalized, available on request*
-*  Pelke, Lars (2021). How do past repression and indoctrination affect redistributive preferences? *Draft in progress*
 *  Kuehn, David & Pelke, Lars (2020). Ethnicity and military behavior in authoritarian regime crises - a pilot study. *Draft in progress* 
 
 
