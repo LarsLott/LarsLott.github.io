@@ -11,7 +11,7 @@ author_profile: true
 
 
 <tr>
-<td width="5%">[10]</td>
+<td width="5%">[11]</td>
 <td width="95%"><strong>Pelke, Lars </strong>. (2023). Reanalyzing the Link between Democracy and Economic Development. <em>International Area Studies Review</em>. <a href="http://dx.doi.org/10.1177/22338659231194945" target="_blank" rel="noopener noreferrer">doi:10.1177/22338659231194945</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1177/22338659231194945" role="button">Supplementary Material</a>
