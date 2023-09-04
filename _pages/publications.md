@@ -8,7 +8,19 @@ author_profile: true
 <h3>Articles in Peer-Reviewed Journals</h3>
 <table class="tg">
 <tbody>
- 
+
+
+<tr>
+<td width="5%">[10]</td>
+<td width="95%"><strong>Pelke, Lars </strong>. (2023). Reanalyzing the Link between Democracy and Economic Development. <em>International Area Studies Review</em>. <a href="http://dx.doi.org/10.1177/22338659231194945" target="_blank" rel="noopener noreferrer">doi:10.1177/22338659231194945</a>. <br>
+  
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.1177/22338659231194945" role="button">Supplementary Material</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/06LJGP" role="button">Replication Code</a>
+
+</td>
+</tr> 
+
+
 <tr>
 <td width="5%">[10]</td>
 <td width="95%"><strong>Pelke, Lars </strong>. (2023). Academic Freedom and the Onset of Autocratization. <em>Democratization</em>, 30 (6), 1015-1039. <a href="http://dx.doi.org/10.1080/13510347.2023.2207213" target="_blank" rel="noopener noreferrer">doi:10.1080/13510347.2023.2207213</a>. <br>
