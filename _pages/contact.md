@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Dr. Lars Pelke
+Dr. Lars Lott (née Pelke)
 
 Friedrich-Alexander University Erlangen-Nürnberg  
 Institute of Political Science  
@@ -20,5 +20,5 @@ D-91054 Erlangen
 Office: 04.025  
 Tel.: +49 9131 85-23024 
 
-E-Mail: <a href="mailto:lars.pelke@fau.de" target="_blank" rel="noopener noreferrer">lars.pelke@fau.de</a>  
+E-Mail: <a href="mailto:lars.lott@fau.de" target="_blank" rel="noopener noreferrer">lars.lott@fau.de</a>  
 
