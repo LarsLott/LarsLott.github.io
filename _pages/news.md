@@ -9,6 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+
+**New last name**
+
+In September 2023 I got married. Now I publish under my new name: Lars Lott
+
+**New Publications**
+
+My paper academic freedom and the onset of autocratization has been published with Democratization and can be found here:  <a href="https://doi.org/10.1080/13510347.2023.2207213" target="_blank" rel="noopener noreferrer">https://doi.org/10.1080/13510347.2023.2207213</a> 
+
+A second new paper titled "Reanalyzing the Link between Democracy and Economic Development" has been published with Interantional Area Studies Review and can be found here:  <a href="https://doi.org/10.1177/22338659231194945" target="_blank" rel="noopener noreferrer">https://doi.org/10.1177/22338659231194945</a> 
+[25/06/2023]
+
 **New Blog Post**
 
 New Blog Post: <a href=" https://theloop.ecpr.eu/how-not-to-measure-chinas-autocratic-influence/ " target="_blank" rel="noopener noreferrer"> https://theloop.ecpr.eu/how-not-to-measure-chinas-autocratic-influence/ </a>
