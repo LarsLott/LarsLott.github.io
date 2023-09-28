@@ -11,7 +11,7 @@ author_profile: true
 
 
 <tr>
-<td width="5%">[11]</td>
+<td width="5%">[9]</td>
 <td width="95%"><strong>Pelke, Lars </strong>. (2023). Reanalyzing the Link between Democracy and Economic Development. <em>International Area Studies Review</em>. <a href="http://dx.doi.org/10.1177/22338659231194945" target="_blank" rel="noopener noreferrer">doi:10.1177/22338659231194945</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1177/22338659231194945" role="button">Supplementary Material</a>
@@ -22,28 +22,12 @@ author_profile: true
 
 
 <tr>
-<td width="5%">[10]</td>
+<td width="5%">[8]</td>
 <td width="95%"><strong>Pelke, Lars </strong>. (2023). Academic Freedom and the Onset of Autocratization. <em>Democratization</em>, 30 (6), 1015-1039. <a href="http://dx.doi.org/10.1080/13510347.2023.2207213" target="_blank" rel="noopener noreferrer">doi:10.1080/13510347.2023.2207213</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1080/13510347.2023.2207213" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/STOIQ0" role="button">Replication Code</a>
 
-</td>
-</tr> 
-
-<tr>
-<td width="5%">[9]</td>
-<td width="95%">Kinzelbach, Katrin  & <strong>Pelke, Lars </strong>. (2022). Wie notwendig sind autonome Universitäten? Zum empirischen Zusammenhang der institutionellen und individuellen Wissenschaftsfreiheit. <em>Forschung</em>, 15 (3/4) (2022), 59-66. <br>
-  
-<a class="btn btn-primary btn-sm" href="https://doi.org/10.17605/OSF.IO/J7F5X" role="button">Supplementary Material</a>
-</td>
-</tr> 
-  
-<tr>
-<td width="5%">[8]</td>
-<td width="95%"><strong>Pelke, Lars </strong>. (2022). Replikation als Lehrinstrument in der sozialwissenschaftlichen Methodenlehre. Der Praxiskurs Datenanalyse und Replikation. <em>HINT – Heidelberg Inspirations for Innovative Teaching</em>, 3 (2022), 117-140. <a href="https://doi.org/10.11588/hint.2022.1.92855" target="_blank" rel="noopener noreferrer">doi:10.11588/hint.2022.1.92855</a>. <br>
-  
-<a class="btn btn-primary btn-sm" href="https://github.com/LarsPelke/Praxiskurs_Datenanalyse_und_Replikation" role="button">Supplementary Material</a>
 </td>
 </tr> 
   
@@ -108,6 +92,37 @@ author_profile: true
 </tr>
 </tbody>
 </table>
+
+
+<h3>Articles in Journals</h3>
+<table class="tg">
+<tbody>
+
+<tr>
+<td width="5%">[3]</td>
+<td width="95%">*  Korell, Daniel & Reinecke, Niklas & <strong> Lott, Lars</strong> (2023). Student-Led Replication Studies in Comparative Politics: New findings by fresh eyes? <em>IZeitschrift für Vergleichende Politikwissenschaft</em>. <a href="http://dx.doi.org/10.1007/s12286-023-00578-4" target="_blank" rel="noopener noreferrer">doi:10.1007/s12286-023-00578-4</a>. <br>
+  
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.1007/s12286-023-00578-4" role="button">Supplementary Material</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/1Q4KRE" role="button">Replication Code</a>
+</td>
+</tr> 
+
+<tr>
+<td width="5%">[2]</td>
+<td width="95%">Kinzelbach, Katrin  & <strong>Pelke, Lars </strong>. (2022). Wie notwendig sind autonome Universitäten? Zum empirischen Zusammenhang der institutionellen und individuellen Wissenschaftsfreiheit. <em>Forschung</em>, 15 (3/4) (2022), 59-66. <br>
+  
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.17605/OSF.IO/J7F5X" role="button">Supplementary Material</a>
+</td>
+</tr> 
+  
+<tr>
+<td width="5%">[1]</td>
+<td width="95%"><strong>Pelke, Lars </strong>. (2022). Replikation als Lehrinstrument in der sozialwissenschaftlichen Methodenlehre. Der Praxiskurs Datenanalyse und Replikation. <em>HINT – Heidelberg Inspirations for Innovative Teaching</em>, 3 (2022), 117-140. <a href="https://doi.org/10.11588/hint.2022.1.92855" target="_blank" rel="noopener noreferrer">doi:10.11588/hint.2022.1.92855</a>. <br>
+  
+<a class="btn btn-primary btn-sm" href="https://github.com/LarsPelke/Praxiskurs_Datenanalyse_und_Replikation" role="button">Supplementary Material</a>
+</td>
+</tr> 
+
 
 <h3>Articles in Edited Volumes</h3>
 <table class="tg">
