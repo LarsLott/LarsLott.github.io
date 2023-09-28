@@ -122,7 +122,8 @@ author_profile: true
 <a class="btn btn-primary btn-sm" href="https://github.com/LarsPelke/Praxiskurs_Datenanalyse_und_Replikation" role="button">Supplementary Material</a>
 </td>
 </tr> 
-
+</tbody>
+</table>
 
 <h3>Articles in Edited Volumes</h3>
 <table class="tg">
