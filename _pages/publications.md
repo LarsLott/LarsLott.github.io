@@ -100,7 +100,7 @@ author_profile: true
 
 <tr>
 <td width="5%">[3]</td>
-<td width="95%">*  Korell, Daniel & Reinecke, Niklas & <strong> Lott, Lars</strong> (2023). Student-Led Replication Studies in Comparative Politics: New findings by fresh eyes? <em>IZeitschrift für Vergleichende Politikwissenschaft</em>. <a href="http://dx.doi.org/10.1007/s12286-023-00578-4" target="_blank" rel="noopener noreferrer">doi:10.1007/s12286-023-00578-4</a>. <br>
+<td width="95%">Korell, Daniel & Reinecke, Niklas & <strong> Lott, Lars</strong> (2023). Student-Led Replication Studies in Comparative Politics: New findings by fresh eyes? <em>Zeitschrift für Vergleichende Politikwissenschaft</em>. <a href="http://dx.doi.org/10.1007/s12286-023-00578-4" target="_blank" rel="noopener noreferrer">doi:10.1007/s12286-023-00578-4</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1007/s12286-023-00578-4" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/1Q4KRE" role="button">Replication Code</a>
