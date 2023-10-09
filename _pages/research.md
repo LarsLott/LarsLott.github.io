@@ -14,11 +14,12 @@ My research relates to the fields of Comparative Politics, Democratization Resea
 Work in progress
 ------
 
-*  Pelke, Lars (2023). Academic Freedom Growth and Decline Episodes. *Revise and Resubmit*
-*  Pelke, Lars & Croissant, Aurel & Trinn, Christoph (2023). Autocratization and Domestic Terrorism. *Revise and Resubmit*
+*  Lott, Lars & Croissant, Aurel & Trinn, Christoph (2023). The Ambivalent Effect of Autocratization on Domestic Terrorism. *Accepted*. *Studies in Conflict & Terrorism*
+*  Lott, Lars (2023). Expert:innendaten in der internationalen Menschenrechtsforschung am Beispiel des Academic Freedom Index. *Accepted*. *Zeitchrift für Menschenrechte*
+*  Lott, Lars (2023). Academic Freedom Growth and Decline Episodes. *Revise and Resubmit*
 *  Pelke, Lars & Janika Spannagel (2023). Quality Assessment of the Academic Freedom Index: Strengths, Weaknesses, and How Best to Use It. *Under Review*
 *  Pelke, Lars (2021). How do past repression and indoctrination affect redistributive preferences? *Under Review*
-*  Pelke, Lars & Croissant, Aurel (2023). Measuring Autocratization. In: Routledge Handbook of Autocratization. Routledge. *Finalized, available on request*
+*  Lott, Lars & Croissant, Aurel (2023). Measuring Autocratization. In: Routledge Handbook of Autocratization. Routledge. *Finalized, available on request*
 *  Kuehn, David & Pelke, Lars (2020). Ethnicity and military behavior in authoritarian regime crises - a pilot study. *Draft in progress* 
 
 
