@@ -10,6 +10,12 @@ redirect_from:
 {% include base_path %}
 
 
+**New Publications**
+A new paper, co-authored with Aurel Croissant and Chrsitopg Trinn (both Heidelberg University) will appear in <em> Studies in Conflict & Terrorism </em>. A pre-print is available only <a href="https://github.com/LarsLott/LarsLott.github.io/blob/1cd99e4fc9b844878a712c33fa868798ee2e26a2/files/Lott_Croissant_Trinn_2023_Ambivalent%20Effect%20of%20Autocratization.pdf" target="_blank" rel="noopener noreferrer">here</a>. 
+
+Another paper -- a research note together with two students -- will appear in <em>Zeitschrift für Vergleichende Politikwissenschaft</em>. This publication is open-access and ca be read at <a href="https://dx.doi.org/10.1007/s12286-023-00578-4" target="_blank" rel="noopener noreferrer">https://dx.doi.org/10.1007/s12286-023-00578-4</a>  
+[11/10/2023]
+
 **New last name**
 
 In September 2023 I got married. Now I publish under my new name: Lars Lott
