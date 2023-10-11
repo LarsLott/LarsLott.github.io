@@ -11,6 +11,17 @@ author_profile: true
 
 
 <tr>
+<td width="5%">[10]</td>
+<td width="95%"><strong>Lott, Lars </strong>, Croissant, Aurel, & Trinn, Christoph. (2023). The Ambivalent Effect of Autocratization on Domestic Terrorism. <em>Studies in Conflict & Terrorism</em>. <a href="http://dx.doi.org/10.1080/1057610X.2023.2270479" target="_blank" rel="noopener noreferrer">doi:10.1080/1057610X.2023.2270479</a>. <br>
+  
+<a class="btn btn-primary btn-sm" href="https://github.com/LarsLott/LarsLott.github.io/blob/1cd99e4fc9b844878a712c33fa868798ee2e26a2/files/Lott_Croissant_Trinn_2023_Ambivalent%20Effect%20of%20Autocratization.pdf" role="button">Pre-Print</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.1080/1057610X.2023.2270479" role="button">Supplementary Material</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/JWCLSB" role="button">Replication Code</a>
+
+</td>
+</tr> 
+
+<tr>
 <td width="5%">[9]</td>
 <td width="95%"><strong>Pelke, Lars </strong>. (2023). Reanalyzing the Link between Democracy and Economic Development. <em>International Area Studies Review</em>. <a href="http://dx.doi.org/10.1177/22338659231194945" target="_blank" rel="noopener noreferrer">doi:10.1177/22338659231194945</a>. <br>
   
