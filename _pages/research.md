@@ -14,12 +14,10 @@ My research relates to the fields of Comparative Politics, Democratization Resea
 Work in progress
 ------
 
-*  Lott, Lars (2023). Expert:innendaten in der internationalen Menschenrechtsforschung am Beispiel des Academic Freedom Index. *Accepted*. *Zeitchrift für Menschenrechte*
 *  Lott, Lars (2023). Academic Freedom Growth and Decline Episodes. *Accepted*. *Higher Education* DOI: 10.1007/s10734-023-01156-z
 *  Pelke, Lars & Janika Spannagel (2023). Quality Assessment of the Academic Freedom Index: Strengths, Weaknesses, and How Best to Use It. *Under Review*
 *  Pelke, Lars (2021). How do past repression and indoctrination affect redistributive preferences? *Under Review*
 *  Lott, Lars & Croissant, Aurel (2023). Measuring Autocratization. In: Routledge Handbook of Autocratization. Routledge. *Finalized, available on request*
-*  Kuehn, David & Pelke, Lars (2020). Ethnicity and military behavior in authoritarian regime crises - a pilot study. *Draft in progress* 
 
 
 
