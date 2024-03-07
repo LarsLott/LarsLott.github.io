@@ -193,6 +193,10 @@ author_profile: true
 <tbody>
 <tr>
 <td width="5%">[3]</td>
+<td width="95%"> Katrin Kinzelbach, Staffan I. Lindberg, and <strong>Lott, Lars</strong> (2024). Academic Freedom Index 2024 Update. FAU Erlangen-Nürnberg and V-Dem Institute. <a href="https://doi.org/10.25593/open-fau-405" target="_blank" rel="noopener noreferrer">doi:10.25593/open-fau-405</a>.</td>
+</tr>
+<tr>
+<td width="5%">[3]</td>
 <td width="95%"> Katrin Kinzelbach, Staffan I. Lindberg, <strong>Pelke, Lars</strong>, and Janika Spannagel (2023). Academic Freedom Index 2023 Update. FAU Erlangen-Nürnberg and V-Dem Institute. <a href="https://doi.org/10.25593/opus4-fau-21630" target="_blank" rel="noopener noreferrer">doi:10.25593/opus4-fau-21630</a>.</td>
 </tr>
 <tr>
