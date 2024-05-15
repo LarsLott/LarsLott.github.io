@@ -158,6 +158,15 @@ author_profile: true
 <table class="tg">
 <tbody>
 <tr>
+<td width="5%">[3]</td>
+<td width="95%"><strong>Lott, Lars</strong> & Croissant, Aurel (2024). Measuring Autocratization. In: The Routledge Handbook of Autocratization, eds. Aurel Croissant and Luca Tomini, Abingdon, UK, Routledge. <a href="https://doi.org/10.4324/9781003306900-5" target="_blank" rel="noopener noreferrer">doi:10.4324/9781003306900-5</a><br>
+  
+<a class="btn btn-primary btn-sm" href="https://github.com/LarsLott" role="button">Supplementary Material</a>
+<a class="btn btn-primary btn-sm" href="https://github.com/LarsLott" role="button">Replication Data</a>
+</td>
+</tr>
+
+<tr>
 <td width="5%">[2]</td>
 <td width="95%">Croissant, Aurel & <strong>Pelke, Lars</strong> (2023). COVID-19 and Democracy: Creeping Autocratization?. In: Democracy, State-Capacity and the Governance of COVID-19 in Asia and Oceania, eds. Aurel Croissant and Olli Hellmann, London, UK, Routledge. <a href="https://doi.org/10.4324/9781003362456-3" target="_blank" rel="noopener noreferrer">doi:10.4324/9781003362456-3</a><br>
   
@@ -165,6 +174,7 @@ author_profile: true
 <a class="btn btn-primary btn-sm" href="https://github.com/LarsPelke/democracy_covid19_book_chapter" role="button">Replication Data</a>
 </td>
 </tr>
+
 <tr>
 <td width="5%">[1]</td>
 <td width="95%">Croissant, Aurel & <strong>Pelke, Lars</strong> (2021). Democracy and Development in Asia. In: Elgar Research Handbook on Democracy and Development, eds. Gordon Crawford and Abdul-Gafaru Abdulai, Cheltenham, UK, Edward Elgar. <br>
@@ -174,6 +184,9 @@ author_profile: true
 </tr>
 </tbody>
 </table>
+
+*  Lott, Lars & Croissant, Aurel (2023). Measuring Autocratization. In: Routledge Handbook of Autocratization. Routledge. *Finalized, available on request*
+
 
 
 <h3>Working Papers</h3>
