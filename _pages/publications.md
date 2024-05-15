@@ -185,10 +185,6 @@ author_profile: true
 </tbody>
 </table>
 
-*  Lott, Lars & Croissant, Aurel (2023). Measuring Autocratization. In: Routledge Handbook of Autocratization. Routledge. *Finalized, available on request*
-
-
-
 <h3>Working Papers</h3>
 <table class="tg">
 <tbody>
