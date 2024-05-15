@@ -17,7 +17,6 @@ Work in progress
 *  Lott, Lars & Janika Spannagel (2023). Quality Assessment of the Academic Freedom Index: Strengths, Weaknesses, and How Best to Use It. *Revise and Resubmit*
 *  Lott, Lars (2024). How Academic Freedom Evolves. The Non-Democratic Roots of University Education and the Emergence of Academic Freedom. *Work in progress*
 *  Pelke, Lars (2021). How do past repression and indoctrination affect redistributive preferences? *Work in progress*
-*  Lott, Lars & Croissant, Aurel (2023). Measuring Autocratization. In: Routledge Handbook of Autocratization. Routledge. *Finalized, available on request*
 
 
 
