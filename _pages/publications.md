@@ -189,6 +189,11 @@ author_profile: true
 <table class="tg">
 <tbody>
 <tr>
+<tr>
+<td width="5%">[2]</td>
+<td width="95%">Croissant, Aurel & <strong>Lars Lott</strong> (2024). Democratic Resilience in the Twenty-First Century. Search for an analytical framework and explorative analysis. <em>V-Dem Working Papers Series 2024:149</em> <a href="https://v-dem.net/media/publications/WP_149.pdf" target="_blank" rel="noopener noreferrer">https://v-dem.net/media/publications/WP_149.pdf</a><br>
+</td>
+</tr>
 <td width="5%">[1]</td>
 <td width="95%"><strong>Pelke, Lars</strong> & Janika Spannagel (2023). Quality Assessment of the Academic Freedom Index: Strengths, Weaknesses, and How Best to Use It. <em>V-Dem Working Papers Series 2023:142</em> <a href="https://v-dem.net/media/publications/wp_142.pdf" target="_blank" rel="noopener noreferrer">https://v-dem.net/media/publications/wp_142.pdf</a><br>
 </td>
