@@ -11,7 +11,7 @@ author_profile: true
 
 <tr>
 <td width="5%">[11]</td>
-<td width="95%"><strong>Lott, Lars </strong> (2023). Academic freedom growth and decline episodes. <em>Higher Education</em>. <a href="http://dx.doi.org/10.1007/s10734-023-01156-z" target="_blank" rel="noopener noreferrer">doi:10.1007/s10734-023-01156-z</a>. <br>
+<td width="95%"><strong>Lott, Lars </strong> (2024). Academic freedom growth and decline episodes. <em>Higher Education</em>, 88, 999–1017. <a href="http://dx.doi.org/10.1007/s10734-023-01156-z" target="_blank" rel="noopener noreferrer">doi:10.1007/s10734-023-01156-z</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1007/s10734-023-01156-z" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/XLVABM" role="button">Replication Code</a>
