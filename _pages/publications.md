@@ -11,7 +11,7 @@ author_profile: true
 
 <tr>
 <td width="5%">[11]</td>
-<td width="95%"><strong>Lott, Lars </strong> (2024). Academic freedom growth and decline episodes. <em>Higher Education</em>, 88, 999–1017. <a href="http://dx.doi.org/10.1007/s10734-023-01156-z" target="_blank" rel="noopener noreferrer">doi:10.1007/s10734-023-01156-z</a>. <br>
+<td width="95%"><strong>Lott, Lars</strong> (2024). Academic freedom growth and decline episodes. <em>Higher Education</em>, 88, 999–1017. <a href="http://dx.doi.org/10.1007/s10734-023-01156-z" target="_blank" rel="noopener noreferrer">doi:10.1007/s10734-023-01156-z</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1007/s10734-023-01156-z" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/XLVABM" role="button">Replication Code</a>
@@ -21,7 +21,7 @@ author_profile: true
 
 <tr>
 <td width="5%">[10]</td>
-<td width="95%"><strong>Lott, Lars </strong>, Croissant, Aurel, & Trinn, Christoph. (2023). The Ambivalent Effect of Autocratization on Domestic Terrorism. <em>Studies in Conflict & Terrorism</em>. <a href="http://dx.doi.org/10.1080/1057610X.2023.2270479" target="_blank" rel="noopener noreferrer">doi:10.1080/1057610X.2023.2270479</a>. <br>
+<td width="95%"><strong>Lott, Lars</strong>, Croissant, Aurel, & Trinn, Christoph. (2023). The Ambivalent Effect of Autocratization on Domestic Terrorism. <em>Studies in Conflict & Terrorism</em>. <a href="http://dx.doi.org/10.1080/1057610X.2023.2270479" target="_blank" rel="noopener noreferrer">doi:10.1080/1057610X.2023.2270479</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://github.com/LarsLott/LarsLott.github.io/blob/1cd99e4fc9b844878a712c33fa868798ee2e26a2/files/Lott_Croissant_Trinn_2023_Ambivalent%20Effect%20of%20Autocratization.pdf" role="button">Pre-Print</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1080/1057610X.2023.2270479" role="button">Supplementary Material</a>
@@ -32,7 +32,7 @@ author_profile: true
 
 <tr>
 <td width="5%">[9]</td>
-<td width="95%"><strong>Pelke, Lars </strong>. (2023). Reanalyzing the Link between Democracy and Economic Development. <em>International Area Studies Review</em>, 26 (4), 361-383. <a href="http://dx.doi.org/10.1177/22338659231194945" target="_blank" rel="noopener noreferrer">doi:10.1177/22338659231194945</a>. <br>
+<td width="95%"><strong>Pelke, Lars</strong>. (2023). Reanalyzing the Link between Democracy and Economic Development. <em>International Area Studies Review</em>, 26 (4), 361-383. <a href="http://dx.doi.org/10.1177/22338659231194945" target="_blank" rel="noopener noreferrer">doi:10.1177/22338659231194945</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1177/22338659231194945" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/06LJGP" role="button">Replication Code</a>
@@ -53,7 +53,7 @@ author_profile: true
   
 <tr>
 <td width="5%">[7]</td>
-<td width="95%">Croissant, Aurel & <strong>Pelke, Lars </strong>. (2022). Measuring Policy Performance, Democracy, and Governance Capacities: A Conceptual and Methodological Assessment of the Sustainable Governance Indicators (SGI). <em>European Policy Review</em>, 8 (2), 136-159. <a href="http://dx.doi.org/10.1002/epa2.1141" target="_blank" rel="noopener noreferrer">doi:10.1002/epa2.1141</a>. <br>
+<td width="95%">Croissant, Aurel & <strong>Pelke, Lars</strong>. (2022). Measuring Policy Performance, Democracy, and Governance Capacities: A Conceptual and Methodological Assessment of the Sustainable Governance Indicators (SGI). <em>European Policy Review</em>, 8 (2), 136-159. <a href="http://dx.doi.org/10.1002/epa2.1141" target="_blank" rel="noopener noreferrer">doi:10.1002/epa2.1141</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fepa2.1141&file=epa21141-sup-0001-Appendix.docx" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://github.com/LarsPelke/Measuring-Policy-Performance-Democracy-and-Governance-Capacities" role="button">Replication Code</a>
@@ -62,7 +62,7 @@ author_profile: true
   
 <tr>  
 <td width="5%">[6]</td>
-<td width="95%"><strong>Pelke, Lars </strong>. (2021). Party institutionalization, authoritarian regime types and women’s political equality. <em>Contemporary Politics</em>, 27 (4), 461-486. <a href="http://dx.doi.org/10.1080/13569775.2021.1908724" target="_blank" rel="noopener noreferrer">doi:10.1080/13569775.2021.1908724</a>.<br>
+<td width="95%"><strong>Pelke, Lars</strong>. (2021). Party institutionalization, authoritarian regime types and women’s political equality. <em>Contemporary Politics</em>, 27 (4), 461-486. <a href="http://dx.doi.org/10.1080/13569775.2021.1908724" target="_blank" rel="noopener noreferrer">doi:10.1080/13569775.2021.1908724</a>.<br>
   
 <a class="btn btn-primary btn-sm" href="https://www.tandfonline.com/doi/suppl/10.1080/13569775.2021.1908724?scroll=top" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/PW2AMD" role="button">Replication Code</a>
@@ -70,7 +70,7 @@ author_profile: true
 </tr>
 <tr>
 <td width="5%">[5]</td>
-<td width="95%"><strong>Pelke, Lars </strong> & Aurel Croissant (2021). Conceptualizing and Measuring Autocratization Episodes. <em>Swiss Political Science Review</em>, 27 (2), 434-448. <a href="http://dx.doi.org/10.1111/spsr.12437" target="_blank" rel="noopener noreferrer">doi:10.1111/spsr.12437</a>.<br>
+<td width="95%"><strong>Pelke, Lars</strong> & Aurel Croissant (2021). Conceptualizing and Measuring Autocratization Episodes. <em>Swiss Political Science Review</em>, 27 (2), 434-448. <a href="http://dx.doi.org/10.1111/spsr.12437" target="_blank" rel="noopener noreferrer">doi:10.1111/spsr.12437</a>.<br>
   
 <a class="btn btn-primary btn-sm" href="https://osf.io/f9n23/" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://osf.io/f9n23/" role="button">Replication Code</a>
@@ -99,7 +99,7 @@ author_profile: true
 </tr>
 <tr>
 <td width="5%">[2]</td>
-<td width="95%"><strong>Pelke, Lars </strong> & Friesen, Paul (2019). Democratization Articles Dataset: an introduction. <em>Democratization</em>, 26 (1), 140–160. 
+<td width="95%"><strong>Pelke, Lars</strong> & Friesen, Paul (2019). Democratization Articles Dataset: an introduction. <em>Democratization</em>, 26 (1), 140–160. 
   <a href="http://dx.doi.org/10.1080/13510347.2018.1504778" target="_blank" rel="noopener noreferrer">doi:10.1080/13510347.2018.1504778</a>.<br>
   
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/GJIADC" role="button">Supplementary Material</a>
@@ -129,7 +129,7 @@ author_profile: true
 
 <tr>
 <td width="5%">[3]</td>
-<td width="95%">Korell, Daniel & Reinecke, Niklas & <strong> Lott, Lars</strong> (2023). Student-Led Replication Studies in Comparative Politics: New findings by fresh eyes? <em>Zeitschrift für Vergleichende Politikwissenschaft</em>. <a href="http://dx.doi.org/10.1007/s12286-023-00578-4" target="_blank" rel="noopener noreferrer">doi:10.1007/s12286-023-00578-4</a>. <br>
+<td width="95%">Korell, Daniel & Reinecke, Niklas & <strong>Lott, Lars</strong> (2023). Student-Led Replication Studies in Comparative Politics: New findings by fresh eyes? <em>Zeitschrift für Vergleichende Politikwissenschaft</em>. <a href="http://dx.doi.org/10.1007/s12286-023-00578-4" target="_blank" rel="noopener noreferrer">doi:10.1007/s12286-023-00578-4</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1007/s12286-023-00578-4" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/1Q4KRE" role="button">Replication Code</a>
@@ -138,7 +138,7 @@ author_profile: true
 
 <tr>
 <td width="5%">[2]</td>
-<td width="95%">Kinzelbach, Katrin  & <strong>Pelke, Lars </strong>. (2022). Wie notwendig sind autonome Universitäten? Zum empirischen Zusammenhang der institutionellen und individuellen Wissenschaftsfreiheit. <em>Forschung</em>, 15 (3/4) (2022), 59-66. <br>
+<td width="95%">Kinzelbach, Katrin  & <strong>Pelke, Lars</strong>. (2022). Wie notwendig sind autonome Universitäten? Zum empirischen Zusammenhang der institutionellen und individuellen Wissenschaftsfreiheit. <em>Forschung</em>, 15 (3/4) (2022), 59-66. <br>
   
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.17605/OSF.IO/J7F5X" role="button">Supplementary Material</a>
 </td>
@@ -146,7 +146,7 @@ author_profile: true
   
 <tr>
 <td width="5%">[1]</td>
-<td width="95%"><strong>Pelke, Lars </strong>. (2022). Replikation als Lehrinstrument in der sozialwissenschaftlichen Methodenlehre. Der Praxiskurs Datenanalyse und Replikation. <em>HINT – Heidelberg Inspirations for Innovative Teaching</em>, 3 (2022), 117-140. <a href="https://doi.org/10.11588/hint.2022.1.92855" target="_blank" rel="noopener noreferrer">doi:10.11588/hint.2022.1.92855</a>. <br>
+<td width="95%"><strong>Pelke, Lars</strong>. (2022). Replikation als Lehrinstrument in der sozialwissenschaftlichen Methodenlehre. Der Praxiskurs Datenanalyse und Replikation. <em>HINT – Heidelberg Inspirations for Innovative Teaching</em>, 3 (2022), 117-140. <a href="https://doi.org/10.11588/hint.2022.1.92855" target="_blank" rel="noopener noreferrer">doi:10.11588/hint.2022.1.92855</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://github.com/LarsPelke/Praxiskurs_Datenanalyse_und_Replikation" role="button">Supplementary Material</a>
 </td>
