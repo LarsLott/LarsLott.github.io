@@ -43,7 +43,7 @@ author_profile: true
 
 <tr>
 <td width="5%">[8]</td>
-<td width="95%"><strong>Pelke, Lars </strong>. (2023). Academic Freedom and the Onset of Autocratization. <em>Democratization</em>, 30 (6), 1015-1039. <a href="http://dx.doi.org/10.1080/13510347.2023.2207213" target="_blank" rel="noopener noreferrer">doi:10.1080/13510347.2023.2207213</a>. <br>
+<td width="95%"><strong>Pelke, Lars</strong>. (2023). Academic Freedom and the Onset of Autocratization. <em>Democratization</em>, 30 (6), 1015-1039. <a href="http://dx.doi.org/10.1080/13510347.2023.2207213" target="_blank" rel="noopener noreferrer">doi:10.1080/13510347.2023.2207213</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1080/13510347.2023.2207213" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/STOIQ0" role="button">Replication Code</a>
