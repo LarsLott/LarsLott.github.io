@@ -11,7 +11,7 @@ redirect_from:
 
 **New Publication out in Perspectives on Politics**
 
-A new paper, co-authored with Janika Spannagel from FU Berlin, will publish in <em>Perspectives on Politics</em>. This publication is open-access and can be accessed here: <a href="http://dx.doi.org/10.1017/S1537592724001968" target="_blank" rel="noopener noreferrer">http://dx.doi.org/10.1017/S1537592724001968</a>  
+A new paper, co-authored with Janika Spannagel from FU Berlin, will be published in <em>Perspectives on Politics</em>. This publication is open-access and can be accessed here: <a href="http://dx.doi.org/10.1017/S1537592724001968" target="_blank" rel="noopener noreferrer">http://dx.doi.org/10.1017/S1537592724001968</a>  
 [16/01/2025]
 
 **New Publications**
