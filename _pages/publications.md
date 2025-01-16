@@ -11,7 +11,7 @@ author_profile: true
 
 <tr>
 <td width="5%">[12]</td>
-<td width="95%"><strong>Lott, Lars, & Spannagel, Janika </strong> (2025). Quality Assessment of the Academic Freedom Index: Strengths, Weaknesses, and How Best to Use It. <em>Perspectives on Politics</em>. <a href="http://dx.doi.org/10.1017/S1537592724001968" target="_blank" rel="noopener noreferrer">doi:10.1017/S1537592724001968</a>. <br>
+<td width="95%"><strong>Lott, Lars, </strong> & Spannagel, Janika (2025). Quality Assessment of the Academic Freedom Index: Strengths, Weaknesses, and How Best to Use It. <em>Perspectives on Politics</em>. <a href="http://dx.doi.org/10.1017/S1537592724001968" target="_blank" rel="noopener noreferrer">doi:10.1017/S1537592724001968</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="http://doi.org/10.1017/S1537592724001968" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/US8MUW" role="button">Replication Code: Harvard Dataverse</a>
