@@ -10,6 +10,17 @@ author_profile: true
 <tbody>
 
 <tr>
+<td width="5%">[12]</td>
+<td width="95%"><strong>Lott, Lars, & Spannagel, Janika </strong> (2025). Quality Assessment of the Academic Freedom Index: Strengths, Weaknesses, and How Best to Use It. <em>Perspectives on Politics</em>. <a href="http://dx.doi.org/10.1017/S1537592724001968" target="_blank" rel="noopener noreferrer">doi:10.1017/S1537592724001968</a>. <br>
+  
+<a class="btn btn-primary btn-sm" href="http://doi.org/10.1017/S1537592724001968" role="button">Supplementary Material</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/US8MUW" role="button">Replication Code: Harvard Dataverse</a>
+<a class="btn btn-primary btn-sm" href="https://codeocean.com/capsule/5176300/tree/v1" role="button">Replication Code: Code Ocean Capulse</a>
+<a class="btn btn-primary btn-sm" href="https://v-dem.net/media/publications/wp_142.pdf" role="button">Working Paper Version (2023)</a>
+</td>
+</tr> 
+
+<tr>
 <td width="5%">[11]</td>
 <td width="95%"><strong>Lott, Lars</strong> (2024). Academic freedom growth and decline episodes. <em>Higher Education</em>, 88, 999–1017. <a href="http://dx.doi.org/10.1007/s10734-023-01156-z" target="_blank" rel="noopener noreferrer">doi:10.1007/s10734-023-01156-z</a>. <br>
   
@@ -192,10 +203,6 @@ author_profile: true
 <tr>
 <td width="5%">[2]</td>
 <td width="95%">Croissant, Aurel & <strong>Lars Lott</strong> (2024). Democratic Resilience in the Twenty-First Century. Search for an analytical framework and explorative analysis. <em>V-Dem Working Papers Series 2024:149</em> <a href="https://v-dem.net/media/publications/WP_149.pdf" target="_blank" rel="noopener noreferrer">https://v-dem.net/media/publications/WP_149.pdf</a><br>
-</td>
-</tr>
-<td width="5%">[1]</td>
-<td width="95%"><strong>Pelke, Lars</strong> & Janika Spannagel (2023). Quality Assessment of the Academic Freedom Index: Strengths, Weaknesses, and How Best to Use It. <em>V-Dem Working Papers Series 2023:142</em> <a href="https://v-dem.net/media/publications/wp_142.pdf" target="_blank" rel="noopener noreferrer">https://v-dem.net/media/publications/wp_142.pdf</a><br>
 </td>
 </tr>
 </tbody>
