@@ -17,9 +17,10 @@ Work in progress
 *  Croissant, Aurel & Lars Lott (2024). Democratic Resilience in the Twenty-First Century. Search for an analytical framework and explorative analysis. *Revise and Resubmit*
 *  Lott, Lars & Lutz Bornmann (2024). Is research performance related to academic freedom? A large-scale empirical analysis on the national level. *Under Review*
 *  Lott, Lars, Katrin Kinzelbach, & Staffan I. Lindberg (2024). Can Free Academia Withstand Autocratization? Why some Universities Wither While Others Survive. *Under Review*
-*  Lott, Lars (2024). How Academic Freedom Evolves. The Non-Democratic Roots of University Education and the Emergence of Academic Freedom. *Work in progress*
+*  Lott, Lars (2025). How Academic Freedom Evolves. The Non-Democratic Roots of University Education and the Emergence of Academic Freedom. *Under Review*
+*  Lott, Lars & Aurel Croissant (2025). Autocratic Deepening. In *Handbook of Democratization and De-Democratization* ed. Matthijs Bogaards. Berlin. De Gruyter. *Submitted*
 *  Lott, Lars (2021). How do past repression and indoctrination affect redistributive preferences? *Work in progress*
-*  Lott, Lars & Aurel Croissant (2025). Autocratic Deepening. In *Handbook of Democratization and De-Democratization* ed. Matthijs Bogaards. Berlin. De Gruyter. *Work in progress*
+
 
 
 
