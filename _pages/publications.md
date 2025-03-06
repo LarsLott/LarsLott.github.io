@@ -131,7 +131,7 @@ author_profile: true
 
 <tr>
 <td width="5%">[4]</td>
-<td width="95%"><strong> Lott, Lars</strong> (2023). Expert:innendaten in der internationalen Menschenrechtsforschung am Beispiel des Academic Freedom Index. <em>Zeitchrift für Menschenrechte</em>. <a href="https://doi.org/10.46499/2236.2945" target="_blank" rel="noopener noreferrer">doi:10.46499/2236.2945</a>. <br>
+<td width="95%"><strong> Lott, Lars</strong> (2023). Expert:innendaten in der internationalen Menschenrechtsforschung am Beispiel des Academic Freedom Index. <em>Zeitschrift für Menschenrechte</em>. <a href="https://doi.org/10.46499/2236.2945" target="_blank" rel="noopener noreferrer">doi:10.46499/2236.2945</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/67WXIP" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/67WXIP" role="button">Replication Code</a>
