@@ -11,7 +11,8 @@ redirect_from:
 
 **New Publication in Political Studies**
 
-A new-paper titled "Democratic Resilience in the Twenty-First Century. Search for an analytical framework and explorative analysis", co-authored with Aurel Croissant from Heidelberg University, will be published in <em>Political Studies</em>. This publication is open access and will be accessible here: href="http://dx.doi.org/10.1177/00323217251345779" target="_blank" rel="noopener noreferrer">http://dx.doi.org/10.1177/00323217251345779</a>. As part of the paper we contructed the <em>Democratic Resilience Capacity Index</em> that will be made available on my Github pahe upon publication.  
+A new-paper titled "Democratic Resilience in the Twenty-First Century. Search for an analytical framework and explorative analysis", co-authored with Aurel Croissant from Heidelberg University, will be published in <em>Political Studies</em>. This publication is open access and will be accessible here: <a  href="http://dx.doi.org/10.1177/00323217251345779" target="_blank" rel="noopener noreferrer">http://dx.doi.org/10.1177/00323217251345779</a>. As part of the paper we contructed the <em>Democratic Resilience Capacity Index</em> that will be made available on my Github pahe upon publication.  
+[23/05/2025]
 
 **New Publication out in Perspectives on Politics**
 
