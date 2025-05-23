@@ -10,6 +10,17 @@ author_profile: true
 <tbody>
 
 <tr>
+<td width="5%">[13]</td>
+<td width="95%">Croissant, Aurel & <strong>Lott, Lars, </strong> (2025). Quality Assessment of the Academic Freedom Index: Strengths, Weaknesses, and How Best to Use It. <em>Political Studies</em>. <a href="http://dx.doi.org/10.1177/00323217251345779" target="_blank" rel="noopener noreferrer">doi:10.1177/00323217251345779</a>. <br>
+  
+<a class="btn btn-primary btn-sm" href="http://doi.org/10.1177/00323217251345779" role="button">Supplementary Material</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/US8MUW" role="button">Replication Code: Harvard Dataverse</a>
+<a class="btn btn-primary btn-sm" href="https://codeocean.com/capsule/5183129/tree/v1" role="button">Replication Code: Code Ocean Capulse</a>
+<a class="btn btn-primary btn-sm" href="https://v-dem.net/media/publications/WP_149.pdf" role="button">Working Paper Version (2024)</a>
+</td>
+</tr> 
+
+<tr>
 <td width="5%">[12]</td>
 <td width="95%"><strong>Lott, Lars, </strong> & Spannagel, Janika (2025). Quality Assessment of the Academic Freedom Index: Strengths, Weaknesses, and How Best to Use It. <em>Perspectives on Politics</em>. <a href="http://dx.doi.org/10.1017/S1537592724001968" target="_blank" rel="noopener noreferrer">doi:10.1017/S1537592724001968</a>. <br>
   
@@ -191,17 +202,6 @@ author_profile: true
 <td width="95%">Croissant, Aurel & <strong>Pelke, Lars</strong> (2021). Democracy and Development in Asia. In: Elgar Research Handbook on Democracy and Development, eds. Gordon Crawford and Abdul-Gafaru Abdulai, Cheltenham, UK, Edward Elgar. <br>
 <a class="btn btn-primary btn-sm" href="https://osf.io/9b6yq/r" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://osf.io/9b6yq/" role="button">Replication Data</a>
-</td>
-</tr>
-</tbody>
-</table>
-
-<h3>Working Papers</h3>
-<table class="tg">
-<tbody>
-<tr>
-<td width="5%">[1]</td>
-<td width="95%">Croissant, Aurel & <strong>Lars Lott</strong> (2024). Democratic Resilience in the Twenty-First Century. Search for an analytical framework and explorative analysis. <em>V-Dem Working Papers Series 2024:149</em> <a href="https://v-dem.net/media/publications/WP_149.pdf" target="_blank" rel="noopener noreferrer">https://v-dem.net/media/publications/WP_149.pdf</a><br>
 </td>
 </tr>
 </tbody>
