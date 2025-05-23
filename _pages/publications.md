@@ -11,7 +11,7 @@ author_profile: true
 
 <tr>
 <td width="5%">[13]</td>
-<td width="95%">Croissant, Aurel & <strong>Lott, Lars, </strong> (2025). Quality Assessment of the Academic Freedom Index: Strengths, Weaknesses, and How Best to Use It. <em>Political Studies</em>. <a href="http://dx.doi.org/10.1177/00323217251345779" target="_blank" rel="noopener noreferrer">doi:10.1177/00323217251345779</a>. <br>
+<td width="95%">Croissant, Aurel & <strong>Lott, Lars, </strong> (2025). Democratic Resilience in the Twenty-First Century. Search for an analytical framework and explorative analysis. <em>Political Studies</em>. <a href="http://dx.doi.org/10.1177/00323217251345779" target="_blank" rel="noopener noreferrer">doi:10.1177/00323217251345779</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="http://doi.org/10.1177/00323217251345779" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/US8MUW" role="button">Replication Code: Harvard Dataverse</a>
