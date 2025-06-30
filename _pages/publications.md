@@ -14,8 +14,9 @@ author_profile: true
 <td width="95%">Croissant, Aurel & <strong>Lott, Lars, </strong> (2025). Democratic Resilience in the Twenty-First Century. Search for an analytical framework and explorative analysis. <em>Political Studies</em>. <a href="http://dx.doi.org/10.1177/00323217251345779" target="_blank" rel="noopener noreferrer">doi:10.1177/00323217251345779</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="http://doi.org/10.1177/00323217251345779" role="button">Supplementary Material</a>
-<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/US8MUW" role="button">Replication Code: Harvard Dataverse</a>
-<a class="btn btn-primary btn-sm" href="https://codeocean.com/capsule/5183129/tree/v1" role="button">Replication Code: Code Ocean Capulse</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/LY8FUM" role="button">Replication Code: Harvard Dataverse</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.5281/zenodo.15518083" role="button">Replication Code: Zenodo</a>
+<a class="btn btn-primary btn-sm" href="https://codeocean.com/capsule/2766645/tree/v1" role="button">Replication Code: Code Ocean Capulse</a>
 <a class="btn btn-primary btn-sm" href="https://v-dem.net/media/publications/WP_149.pdf" role="button">Working Paper Version (2024)</a>
 </td>
 </tr> 
