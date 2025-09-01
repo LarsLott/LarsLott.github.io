@@ -213,7 +213,7 @@ author_profile: true
 <tbody>
 <tr>
 <td width="5%">[1]</td>
-<td width="95%"> <strong>Lott, Lars</strong> and Lutz Bornmann (2025). Is research performance related to academic freedom? A large-scale empirical analysis on the national level. Open Sciene Framework. <a href="doi.org/10.17605/OSF.IO/ZUT7H" target="_blank" rel="noopener noreferrer">doi:10.17605/OSF.IO/ZUT7H</a>.
+<td width="95%"> <strong>Lott, Lars</strong> and Lutz Bornmann (2025). Is research performance related to academic freedom? A large-scale empirical analysis on the national level. Open Sciene Framework. <a href="https://doi.org/10.17605/OSF.IO/ZUT7H" target="_blank" rel="noopener noreferrer">doi:10.17605/OSF.IO/ZUT7H</a>.
 </td>
 </tr>
 </tbody>
