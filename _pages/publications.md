@@ -10,6 +10,16 @@ author_profile: true
 <tbody>
 
 <tr>
+<td width="5%">[14]</td>
+<td width="95%">4<strong>Lott, Lars, Kinzelbach, Katrin, & Lindberg, Staffan I. </strong> (2025). Can free academia withstand democratic backsliding? Why some universities wither while others survive. <em>International Political Science Review</em>. <a href="http://dx.doi.org/10.1177/01925121251366162" target="_blank" rel="noopener noreferrer">doi:10.1177/01925121251366162</a>. <br>
+  
+<a class="btn btn-primary btn-sm" href="http://doi.org/10.1177/01925121251366162" role="button">Supplementary Material</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/GPDAP" role="button">Replication Code: Harvard Dataverse</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.5281/zenodo.16405695" role="button">Replication Code: Zenodo</a>
+</td>
+</tr> 
+
+<tr>
 <td width="5%">[13]</td>
 <td width="95%">Croissant, Aurel & <strong>Lott, Lars, </strong> (2025). Democratic Resilience in the Twenty-First Century. Search for an analytical framework and explorative analysis. <em>Political Studies</em>. <a href="http://dx.doi.org/10.1177/00323217251345779" target="_blank" rel="noopener noreferrer">doi:10.1177/00323217251345779</a>. <br>
   
