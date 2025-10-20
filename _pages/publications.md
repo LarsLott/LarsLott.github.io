@@ -14,7 +14,7 @@ author_profile: true
 <td width="95%"> <strong>Lott, Lars</strong>, Kinzelbach, Katrin, & Lindberg, Staffan I. </strong> (2025). Can free academia withstand democratic backsliding? Why some universities wither while others survive. <em>International Political Science Review</em>. <a href="http://dx.doi.org/10.1177/01925121251366162" target="_blank" rel="noopener noreferrer">doi:10.1177/01925121251366162</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="http://doi.org/10.1177/01925121251366162" role="button">Supplementary Material</a>
-<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/GPDAP" role="button">Replication Code: Harvard Dataverse</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/GPDAPN" role="button">Replication Code: Harvard Dataverse</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.5281/zenodo.16405695" role="button">Replication Code: Zenodo</a>
 </td>
 </tr> 
