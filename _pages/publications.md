@@ -256,7 +256,10 @@ author_profile: true
 </tr>
 <tr>
 <td width="5%">[3]</td>
-<td width="95%"> Katrin Kinzelbach, Staffan I. Lindberg, <strong>Pelke, Lars</strong>, and Janika Spannagel (2023). Academic Freedom Index 2023 Update. FAU Erlangen-Nürnberg and V-Dem Institute. <a href="https://doi.org/10.25593/opus4-fau-21630" target="_blank" rel="noopener noreferrer">doi:10.25593/opus4-fau-21630</a>.</td>
+<td width="95%"> Katrin Kinzelbach, Staffan I. Lindberg, <strong>Pelke, Lars</strong>, and Janika Spannagel (2023). Academic Freedom Index 2023 Update. FAU Erlangen-Nürnberg and V-Dem Institute. <a href="https://doi.org/10.25593/opus4-fau-21630" target="_blank" rel="noopener noreferrer">doi:10.25593/opus4-fau-21630</a>. <br> 
+
+<a class="btn btn-primary btn-sm" href="https://github.com/LarsLott/AcademicFreedomIndexUpdate2023" role="button">Replication Code: Github</a>
+</td>
 </tr>
 <tr>
 <td width="5%">[2]</td>
@@ -264,7 +267,10 @@ author_profile: true
 </tr>
 <tr>
 <td width="5%">[1]</td>
-<td width="95%"> Katrin Kinzelbach, Staffan I. Lindberg, <strong>Pelke, Lars</strong>, and Janika Spannagel (2022). Academic Freedom Index 2022 Update. FAU Erlangen-Nürnberg and V-Dem Institute. <a href="http://dx.doi.org/10.25593/opus4-fau-18612" target="_blank" rel="noopener noreferrer">doi:10.25593/opus4-fau-18612</a>.</td>
+<td width="95%"> Katrin Kinzelbach, Staffan I. Lindberg, <strong>Pelke, Lars</strong>, and Janika Spannagel (2022). Academic Freedom Index 2022 Update. FAU Erlangen-Nürnberg and V-Dem Institute. <a href="http://dx.doi.org/10.25593/opus4-fau-18612" target="_blank" rel="noopener noreferrer">doi:10.25593/opus4-fau-18612</a>.<br> 
+
+<a class="btn btn-primary btn-sm" href="https://github.com/LarsLott/AcademicFreedomIndexUpdate2022" role="button">Replication Code: Github</a>
+</td>
 </tr>
 </tbody>
 </table>
