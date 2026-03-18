@@ -234,6 +234,10 @@ author_profile: true
 <table class="tg">
 <tbody>
 <tr>
+<td width="5%">[6]</td>
+<td width="95%"> Katrin Kinzelbach, Staffan I. Lindberg, <strong>Lott, Lars</strong> and Angelo V. Panaro (2026). Academic Freedom Index 2026 Update. FAU Erlangen-Nürnberg and V-Dem Institute. <a href="https://doi.org/10.25593/open-fau-2865" target="_blank" rel="noopener noreferrer">doi:10.25593/open-fau-2865</a>.</td>
+</tr>
+<tr>
 <td width="5%">[5]</td>
 <td width="95%"> Katrin Kinzelbach, Staffan I. Lindberg, <strong>Lott, Lars</strong> and Angelo V. Panaro (2025). Academic Freedom Index 2025 Update. FAU Erlangen-Nürnberg and V-Dem Institute. <a href="https://doi.org/10.25593/open-fau-1637" target="_blank" rel="noopener noreferrer">doi:10.25593/open-fau-1637</a>.</td>
 </tr>
