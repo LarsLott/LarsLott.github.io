@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My research relates to different areas in Comparative Politics, including the conceptualization and measurement of regime transformations, the political economy of inequalities, and the development and trajectories of academic freedom and its consequences for academia and politics. Additionally, I focus on the conceptualization and measurement of democratic resilience. Empirically, I apply quantitative methods (e.g., multilevel models, differences-in-differences estimators for time-series cross-sectional data) and adopt a comparative perspective (cross-national comparisons) in my research projects. Below, you will find information on current working papers and projects.
+My research relates to different areas in Comparative Politics, including the conceptualization and measurement of regime transformations, the political economy of inequalities, and the development and trajectories of academic freedom and its consequences for academia and politics. Additionally, I focus on the conceptualization and measurement of democratic resilience. Empirically, I apply quantitative methods (e.g., multilevel models, difference-in-differences estimators for time-series cross-sectional data) and adopt a comparative perspective (cross-national comparisons) in my research projects. Below, you will find information on current working papers and projects.
 
 Work in progress
 ------
