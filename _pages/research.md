@@ -14,7 +14,7 @@ My research relates to different areas in Comparative Politics, including the co
 Work in progress
 ------
 
-*  Lott, Lars & Lutz Bornmann (2024). Is research performance related to academic freedom? A large-scale empirical analysis on the national level. *Revise and Resubmit*
+*  Lott, Lars & Lutz Bornmann (2026). Is research performance related to academic freedom? A large-scale empirical analysis on the national level. *Under Review*
 *  Lott, Lars & Aurel Croissant (2025). Autocratic Deepening. In *Handbook of Democratization and De-Democratization* ed. Matthijs Bogaards. Berlin. De Gruyter. *Submitted*
 *  Lott, Lars (2025). Elite and Mass Universities under Autocracy: The Non-Democratic Roots of University Education and Tertiary Enrollment Expansion. 
 *  Lott, Lars (2025). How Do Past Indoctrination Affect Redistributive Preferences?
