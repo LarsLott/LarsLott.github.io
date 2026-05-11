@@ -15,7 +15,7 @@ Work in progress
 ------
 
 *  Lott, Lars & Lutz Bornmann (2026). Is research performance related to academic freedom? A large-scale empirical analysis on the national level. *Under Review*
-*  Lott, Lars (2025). Elite and Mass Universities under Autocracy: The Non-Democratic Roots of University Education and Tertiary Enrollment Expansion. *Under Review*
+*  Lott, Lars (2025). How Academic Freedom Evolves. The Non-Democratic Roots of University Education and the Emergence of Academic Freedom.. *Under Review*
 *  Lott, Lars & Aurel Croissant (2025). Autocratic Deepening. In *Handbook of Democratization and De-Democratization* ed. Matthijs Bogaards. Berlin. De Gruyter. *Submitted*
 *  Lott, Lars (2025). How Do Past Indoctrination Affect Redistributive Preferences?
 *  Lott, Lars & Angelo V. Panaro (2026). Populist Leaders and Academic Freedom. *Work in progress*
