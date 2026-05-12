@@ -11,6 +11,17 @@ author_profile: true
 
 <tr>
 <td width="5%">[14]</td>
+<td width="95%"><strong>Lott, Lars</strong>, Croissant, Aurel, & Trinn, Christoph. (2026). The Ambivalent Effect of Autocratization on Domestic Terrorism. <em>Studies in Conflict & Terrorism</em>, 49 (5), 737-763 . <a href="http://dx.doi.org/10.1080/1057610X.2023.2270479" target="_blank" rel="noopener noreferrer">doi:10.1080/1057610X.2023.2270479</a>. <br>
+  
+<a class="btn btn-primary btn-sm" href="https://github.com/LarsLott/LarsLott.github.io/blob/1cd99e4fc9b844878a712c33fa868798ee2e26a2/files/Lott_Croissant_Trinn_2023_Ambivalent%20Effect%20of%20Autocratization.pdf" role="button">Pre-Print</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.1080/1057610X.2023.2270479" role="button">Supplementary Material</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/JWCLSB" role="button">Replication Code</a>
+
+</td>
+</tr> 
+
+<tr>
+<td width="5%">[13]</td>
 <td width="95%"> <strong>Lott, Lars</strong>, Kinzelbach, Katrin, & Lindberg, Staffan I. (2025). Can free academia withstand democratic backsliding? Why some universities wither while others survive. <em>International Political Science Review</em>. <a href="http://dx.doi.org/10.1177/01925121251366162" target="_blank" rel="noopener noreferrer">doi:10.1177/01925121251366162</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="http://doi.org/10.1177/01925121251366162" role="button">Supplementary Material</a>
@@ -20,7 +31,7 @@ author_profile: true
 </tr> 
 
 <tr>
-<td width="5%">[13]</td>
+<td width="5%">[12]</td>
 <td width="95%">Croissant, Aurel & <strong>Lott, Lars, </strong> (2025). Democratic Resilience in the Twenty-First Century. Search for an analytical framework and explorative analysis. <em>Political Studies</em>. <a href="http://dx.doi.org/10.1177/00323217251345779" target="_blank" rel="noopener noreferrer">doi:10.1177/00323217251345779</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="http://doi.org/10.1177/00323217251345779" role="button">Supplementary Material</a>
@@ -32,7 +43,7 @@ author_profile: true
 </tr> 
 
 <tr>
-<td width="5%">[12]</td>
+<td width="5%">[11]</td>
 <td width="95%"><strong>Lott, Lars, </strong> & Spannagel, Janika (2025). Quality Assessment of the Academic Freedom Index: Strengths, Weaknesses, and How Best to Use It. <em>Perspectives on Politics</em>. <a href="http://dx.doi.org/10.1017/S1537592724001968" target="_blank" rel="noopener noreferrer">doi:10.1017/S1537592724001968</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="http://doi.org/10.1017/S1537592724001968" role="button">Supplementary Material</a>
@@ -43,23 +54,12 @@ author_profile: true
 </tr> 
 
 <tr>
-<td width="5%">[11]</td>
+<td width="5%">[10]</td>
 <td width="95%"><strong>Lott, Lars</strong> (2024). Academic freedom growth and decline episodes. <em>Higher Education</em>, 88, 999–1017. <a href="http://dx.doi.org/10.1007/s10734-023-01156-z" target="_blank" rel="noopener noreferrer">doi:10.1007/s10734-023-01156-z</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1007/s10734-023-01156-z" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/XLVABM" role="button">Replication Code</a>
 <a class="btn btn-primary btn-sm" href="https://github.com/larslott/EpisodeR" role="button">R-Package EpisodeR</a>
-</td>
-</tr> 
-
-<tr>
-<td width="5%">[10]</td>
-<td width="95%"><strong>Lott, Lars</strong>, Croissant, Aurel, & Trinn, Christoph. (2023). The Ambivalent Effect of Autocratization on Domestic Terrorism. <em>Studies in Conflict & Terrorism</em>. <a href="http://dx.doi.org/10.1080/1057610X.2023.2270479" target="_blank" rel="noopener noreferrer">doi:10.1080/1057610X.2023.2270479</a>. <br>
-  
-<a class="btn btn-primary btn-sm" href="https://github.com/LarsLott/LarsLott.github.io/blob/1cd99e4fc9b844878a712c33fa868798ee2e26a2/files/Lott_Croissant_Trinn_2023_Ambivalent%20Effect%20of%20Autocratization.pdf" role="button">Pre-Print</a>
-<a class="btn btn-primary btn-sm" href="https://doi.org/10.1080/1057610X.2023.2270479" role="button">Supplementary Material</a>
-<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/JWCLSB" role="button">Replication Code</a>
-
 </td>
 </tr> 
 
