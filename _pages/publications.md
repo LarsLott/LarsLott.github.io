@@ -154,7 +154,7 @@ author_profile: true
 
 <tr>
 <td width="5%">[5]</td>
-<td width="95%"><strong> Lott, Lars </strong>, & Croissant, Aurel (2026). Starke Autokratie, schwache Demokratie? | Autoritarismus. <em>Aus Politik und Zeitgeschichte</em>. <a href="https://www.bpb.de/shop/zeitschriften/apuz/autoritarismus-2026/580690/starke-autokratie-schwache-demokratie/" target="_blank" rel="noopener noreferrer">doi:https://www.bpb.de/shop/zeitschriften/apuz/autoritarismus-2026/580690/starke-autokratie-schwache-demokratie/</a>. <br>
+<td width="95%"><strong> Lott, Lars </strong>, & Croissant, Aurel (2026). Starke Autokratie, schwache Demokratie? <em>Aus Politik und Zeitgeschichte</em>, 76, 16-21. <a href="https://www.bpb.de/shop/zeitschriften/apuz/autoritarismus-2026/580690/starke-autokratie-schwache-demokratie/" target="_blank" rel="noopener noreferrer">doi:https://www.bpb.de/shop/zeitschriften/apuz/autoritarismus-2026/580690/starke-autokratie-schwache-demokratie/</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://github.com/LarsLott/APUZ-Autokratische-Performanz-im-Vergleich" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://github.com/LarsLott/APUZ-Autokratische-Performanz-im-Vergleich" role="button">Replication Code</a>
