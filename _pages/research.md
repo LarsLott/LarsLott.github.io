@@ -18,7 +18,7 @@ Work in progress
 *  Lott, Lars (2025). How Academic Freedom Evolves. The Non-Democratic Roots of University Education and the Emergence of Academic Freedom. *Under Review*
 *  Lott, Lars (2025). How Do Past Indoctrination Affect Redistributive Preferences? *Under Review*
 *  Lott, Lars & Aurel Croissant (2025). Autocratic Deepening. In *Handbook of Democratization and De-Democratization* ed. Bogaards, M., Berlin. De Gruyter. *Submitted*
-*  Lott, Lars (2026). Stabilität und Wandel Politischer Regime. In *Handbuch Autokratie und Demokratie" ed. Pickel, S, Frankenberger, R., Kailitz, S., & Richter, T. *Submitted*
+*  Lott, Lars (2026). Stabilität und Wandel Politischer Regime. In *Handbuch Autokratie und Demokratie* ed. Pickel, S, Frankenberger, R., Kailitz, S., & Richter, T. *Submitted*
 *  Lott, Lars & Angelo V. Panaro (2026). Populist Leaders and Academic Freedom. *Work in progress*
 *  Lott, Lars (2025). Redistribution Mood and Economic Inequalities. *Work in progress*
 *  Lott, Lars (2025). Autocratization and the Distribution und Provision of Social Policies. *Work in progress*
