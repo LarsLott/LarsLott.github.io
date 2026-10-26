@@ -11,6 +11,16 @@ author_profile: true
 
 <tr>
 <td width="5%">[14]</td>
+<td width="95%"> <strong>Lott, Lars</strong>, Kinzelbach, Katrin, & Lindberg, Staffan I. (2026). Can free academia withstand democratic backsliding? Why some universities wither while others survive. <em>International Political Science Review</em>, 47 (5), 763-783. <a href="http://dx.doi.org/10.1177/01925121251366162" target="_blank" rel="noopener noreferrer">doi:10.1177/01925121251366162</a>. <br>
+  
+<a class="btn btn-primary btn-sm" href="http://doi.org/10.1177/01925121251366162" role="button">Supplementary Material</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/GPDAPN" role="button">Replication Code: Harvard Dataverse</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.5281/zenodo.16405695" role="button">Replication Code: Zenodo</a>
+</td>
+</tr> 
+
+<tr>
+<td width="5%">[13]</td>
 <td width="95%">Croissant, Aurel & <strong>Lott, Lars, </strong> (2026). Democratic Resilience in the Twenty-First Century. Search for an analytical framework and explorative analysis. <em>Political Studies</em>, 74 (3), 901-928. <a href="http://dx.doi.org/10.1177/00323217251345779" target="_blank" rel="noopener noreferrer">doi:10.1177/00323217251345779</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="http://doi.org/10.1177/00323217251345779" role="button">Supplementary Material</a>
@@ -22,23 +32,13 @@ author_profile: true
 </tr> 
 
 <tr>
-<td width="5%">[13]</td>
+<td width="5%">[12]</td>
 <td width="95%"><strong>Lott, Lars</strong>, Croissant, Aurel, & Trinn, Christoph. (2026). The Ambivalent Effect of Autocratization on Domestic Terrorism. <em>Studies in Conflict & Terrorism</em>, 49 (5), 737-763. <a href="http://dx.doi.org/10.1080/1057610X.2023.2270479" target="_blank" rel="noopener noreferrer">doi:10.1080/1057610X.2023.2270479</a>. <br>
   
 <a class="btn btn-primary btn-sm" href="https://github.com/LarsLott/LarsLott.github.io/blob/1cd99e4fc9b844878a712c33fa868798ee2e26a2/files/Lott_Croissant_Trinn_2023_Ambivalent%20Effect%20of%20Autocratization.pdf" role="button">Pre-Print</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1080/1057610X.2023.2270479" role="button">Supplementary Material</a>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/JWCLSB" role="button">Replication Code</a>
 
-</td>
-</tr> 
-
-<tr>
-<td width="5%">[12]</td>
-<td width="95%"> <strong>Lott, Lars</strong>, Kinzelbach, Katrin, & Lindberg, Staffan I. (2025). Can free academia withstand democratic backsliding? Why some universities wither while others survive. <em>International Political Science Review</em>. <a href="http://dx.doi.org/10.1177/01925121251366162" target="_blank" rel="noopener noreferrer">doi:10.1177/01925121251366162</a>. <br>
-  
-<a class="btn btn-primary btn-sm" href="http://doi.org/10.1177/01925121251366162" role="button">Supplementary Material</a>
-<a class="btn btn-primary btn-sm" href="https://doi.org/10.7910/DVN/GPDAPN" role="button">Replication Code: Harvard Dataverse</a>
-<a class="btn btn-primary btn-sm" href="https://doi.org/10.5281/zenodo.16405695" role="button">Replication Code: Zenodo</a>
 </td>
 </tr> 
 
